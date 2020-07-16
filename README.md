@@ -21,3 +21,28 @@
 
 # About
 > All codes I wrote during my journey in _competitive programming_ ...
+
+
+## Basics 
+> List of basic topics and problems I solve in each of these topics.
+
+#### Problems
+
+<details>
+  <summary>General problems</summary>
+
+  - [x] CF231-D2-A
+  - [x] CF263-D2-A
+  - [x] CF405-D2-A
+  - [x] CF112-D2-A
+  - [x] CF236-D2-A
+  - [x] CF59-D2-A
+  - [x] CF344-D2-A
+  - [x] CF381-D2-A
+  - [x] CF266-D2-A
+  - [x] CF427-D2-A
+  - [x] CF431-D2-A
+  - [x] CF731-D2-A
+  - [x] CF268-D2-A
+  
+</details> 
