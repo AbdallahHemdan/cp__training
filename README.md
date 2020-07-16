@@ -26,7 +26,7 @@
 ## Basics 
 > List of basic topics and problems I solve in each of these topics.
 
-#### Problems
+#### [1] Problems
 
 <details>
   <summary>General problems</summary>
@@ -46,3 +46,8 @@
   - [x] CF268-D2-A
   
 </details> 
+
+
+#### [2] Topics
+
+- [x] [Elemenatry math](https://www.youtube.com/watch?v=Syx2qDjj7TE)
