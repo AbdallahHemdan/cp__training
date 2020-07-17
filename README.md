@@ -20,7 +20,7 @@
 
 
 # About
-> All codes I wrote during my journey in _competitive programming_ ...
+> All codes I wrote during my journey to back to training again after stoping  ...
 
 
 ## Basics 
