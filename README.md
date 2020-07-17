@@ -79,3 +79,4 @@
 ## Resources
 
 - [Elemenatry math](https://www.youtube.com/watch?v=Syx2qDjj7TE)
+- [HemCPC sheet](https://docs.google.com/spreadsheets/d/1FmiQ8iC8-Lsmz7wBvX2uqTDpqkmHOrSBMumYh2et0ZY/edit#gid=1160016643)
