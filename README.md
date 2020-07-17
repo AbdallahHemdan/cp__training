@@ -50,4 +50,4 @@
 
 #### [2] Topics
 
-- [x] [Elemenatry math](https://www.youtube.com/watch?v=Syx2qDjj7TE)
+- [x] [Elemenatry math](https://github.com/AbdallahHemdan/CP__Training/blob/master/1.%20NOTES__Elementary__Math.md)
