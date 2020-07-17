@@ -20,7 +20,7 @@
 
 
 # About
-> All codes I wrote during my journey to back to training again after stoping  ...
+> All codes I wrote during my journey to back to training again after stopping ...
 
 
 ## Basics 
