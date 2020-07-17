@@ -45,6 +45,12 @@
   - [x] CF266-D2-A
   - [x] CF427-D2-A
   - [x] CF431-D2-A
+  
+</details> 
+
+<details>
+  <summary>Elementary math problems</summary>
+
   - [x] CF731-D2-A
   - [x] CF268-D2-A
   - [x] CF732-D2-A
@@ -60,8 +66,8 @@
   - [x] CF339-D2-A
   - [x] CF490-D2-A
   - [x] CF770-D2-A
-  
 </details> 
+
 
 
 #### [2] Topics
