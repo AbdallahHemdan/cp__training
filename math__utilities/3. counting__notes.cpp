@@ -190,3 +190,4 @@ int solve(int idx = 0, int d = 1, int sign = -1) {
 
 > Backward thinking
 > Solution : n - solve()
+
