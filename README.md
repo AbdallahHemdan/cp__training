@@ -88,12 +88,14 @@
 
 #### [2] Topics
 
-- [x] [Elemenatry math](https://github.com/AbdallahHemdan/CP__Training/blob/master/1.%20NOTES__Elementary__Math.md)
+- [x] [Elemenatry Math](https://github.com/AbdallahHemdan/CP__Training/blob/master/1.%20NOTES__Elementary__Math.md)
 - [x] [Modular Arithmetic](https://github.com/AbdallahHemdan/CP__Training/blob/master/2.%20NOTES__Modular__Arithmetic.md)
+- [x] [Counting Principles](https://github.com/AbdallahHemdan/CP__Training/blob/master/2.%20NOTES__Modular__Arithmetic.md)
 
 
 ## Resources
 
 - [Elemenatry math (YouTube)](https://www.youtube.com/watch?v=Syx2qDjj7TE)
 - [Modular Arithmetic (YouTube)](https://www.youtube.com/watch?v=9sqvjnvuLtY)
+- [Counting Principles (YouTube)](https://www.youtube.com/watch?v=sr6WgCLcgVM)
 - [HemCPC sheet](https://docs.google.com/spreadsheets/d/1FmiQ8iC8-Lsmz7wBvX2uqTDpqkmHOrSBMumYh2et0ZY/edit#gid=1160016643)
