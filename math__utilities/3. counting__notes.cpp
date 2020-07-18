@@ -30,7 +30,6 @@ void generateAllCombinations() {
 }
 
 
-
 2. Sum Rule
 ===========
 
