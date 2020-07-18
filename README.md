@@ -68,7 +68,23 @@
   - [x] CF770-D2-A
 </details> 
 
+<details>
+  <summary>Modular Arithmetic problems</summary>
+    
+  - [x] UVA 10110
+  - [x] UVA 10106
+  - [x] UVA 408
+  - [x] UVA 11231
+  - [x] CF136-D2-A
+  - [x] CF567-D2-A
+  - [x] CF766-D2-A
+  - [x] CF767-D2-A
+  - [x] CF768-D2-A
+  - [x] CF520-D2-A
+  - [x] CF160-D2-A
+  - [x] CF474-D2-A
 
+</details> 
 
 #### [2] Topics
 
