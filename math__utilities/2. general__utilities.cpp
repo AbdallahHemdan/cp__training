@@ -1,6 +1,10 @@
 const double EPS = 1e-9;
 
-// function to get (b ^ e)
+// [1, 2]
+ll GCD(ll a, ll b) { return ((!b) ? a : GCD(b, a%b)); }
+ll LCM(ll a, ll b) { return a / (GCD(a, b))*b; }
+
+// [3]
 ll fastpow(ll b, ll e) {
   if (!e)
     return 1;
@@ -10,7 +14,7 @@ ll fastpow(ll b, ll e) {
   return x * x;
 }
 
-// function to get (b ^ e % MOD)
+// [4]
 ll PowMod(ll bs, ll ex, ll M) {
   if (!ex)
     return 1;
@@ -18,7 +22,7 @@ ll PowMod(ll bs, ll ex, ll M) {
   return (ex & 1) ? (p * bs) % M : p;
 }
 
-// function to compare two double number to avoid percision errors
+// [5]
 int comp_double(double a, double b) {
   if(fabs(a - b) <= EPS) {
      return 0; // equal
