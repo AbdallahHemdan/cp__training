@@ -90,7 +90,7 @@
 
 - [x] [Elemenatry Math](https://github.com/AbdallahHemdan/CP__Training/blob/master/1.%20NOTES__Elementary__Math.md)
 - [x] [Modular Arithmetic](https://github.com/AbdallahHemdan/CP__Training/blob/master/2.%20NOTES__Modular__Arithmetic.md)
-- [x] [Counting Principles](https://github.com/AbdallahHemdan/CP__Training/blob/master/2.%20NOTES__Modular__Arithmetic.md)
+- [x] [Counting Principles](https://github.com/AbdallahHemdan/CP__Training/blob/master/math__utilities/3.%20counting__notes.md)
 
 
 ## Resources
