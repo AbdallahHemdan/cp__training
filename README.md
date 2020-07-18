@@ -86,6 +86,13 @@
 
 </details> 
 
+<details>
+  <summary>Counting problems</summary>
+    
+  - [x] SPOJ EASYMATH
+
+</details> 
+
 #### [2] Topics
 
 - [x] [Elemenatry Math](https://github.com/AbdallahHemdan/CP__Training/blob/master/1.%20NOTES__Elementary__Math.md)
