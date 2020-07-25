@@ -49,6 +49,30 @@
       - [ ] Dynamic Connectivity (find connected commponents dynamically)
       - [ ] Count number of Spanning-Trees (Kirchhoff's Theorem : works on unweighted graph)
       - [ ] Count number of MST in graph
-      
+
+## GYM
+
+- [ ] 2015 ACM Amman Collegiate Programming Contest
+  - [x] A - Who Is The Winner
+    - [x] Implementation
+  - [x] E - Epic Professor
+    - [x] Adhoc (Implementation)
+  - [x] K - Runtime Error
+    - [x] Runtime error = most probably (÷ by 0)
+  - [x] C - Street Lamps
+    - [x] Greedy
+  - [x] J - Candy
+    - [x] Greedy 
+  - [x] G - Heavy Coins
+    - [x] PowerSet to generate all subset
+  - [x] B - Rock-Paper-Scissors	
+    - [x] Prefix Sum to replace comutation from (n^3) to (n + n^2)
+  - [x] F - Travelling Salesman
+    - [x] MiniMax in the whole graph using Kruskal
+  - [ ] -----
+  - [ ] -----
+  - [ ] -----
+  - [ ] -----
+  
 ## Resources
 - [HemCPC sheet](https://docs.google.com/spreadsheets/d/1FmiQ8iC8-Lsmz7wBvX2uqTDpqkmHOrSBMumYh2et0ZY/edit#gid=1160016643)
