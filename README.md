@@ -46,5 +46,9 @@
       - [x] MiniMax using Kruskal
         - [x] MiniMax for the whole Graph
         - [x] MiniMax between 2-nodes
+      - [ ] Dynamic Connectivity (find connected commponents dynamically)
+      - [ ] Count number of Spanning-Trees (Kirchhoff's Theorem : works on unweighted graph)
+      - [ ] Count number of MST in graph
+      
 ## Resources
 - [HemCPC sheet](https://docs.google.com/spreadsheets/d/1FmiQ8iC8-Lsmz7wBvX2uqTDpqkmHOrSBMumYh2et0ZY/edit#gid=1160016643)
