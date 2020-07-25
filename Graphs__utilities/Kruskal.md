@@ -117,12 +117,12 @@ int main() {
 
 
 
-#### Steps for MiniMax of the whole graph
+#### Steps for MiniMax of the whole graph 
 
 1. Run Kruskal
 2. Last added edge is the minimax
 
-
+Problem : [F - Travelling Salesman GYM/100712](https://codeforces.com/gym/100712)
 #### Steps fro MiniMax between 2 nodes
 
 1. Run Kruskal while the 2 nodes are not connected yet
