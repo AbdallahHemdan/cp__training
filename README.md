@@ -23,10 +23,8 @@
 > All codes I wrote during my journey to back to training again after stopping ...
 
 
-## Basics 
+## Topics 
 > List of basic topics I covered in training
-
-#### [2] Topics
 
 - [x] Adhocs
 - [x] Elemenatry Math
