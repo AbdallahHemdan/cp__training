@@ -92,9 +92,9 @@ int main() {
 
 1. Find MST
 2. For each edge in the MST
-	3. Remove edge
-	4. Run MST, compare it for the min value
-	5. ReAdd the edge u removed
+	- Remove edge
+	- Run MST, compare it for the min value
+	- ReAdd the edge u removed
 6. Display MST2 value
 
 
