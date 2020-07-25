@@ -34,7 +34,7 @@
 - [x] Measure algorithm performance
 - [x] Computational geometry (point & vector)
 - [x] PowerSet (generate all subsets of set S)
-
+- [x] Prefix sum (cumulative sum)
 
 ## Resources
 - [HemCPC sheet](https://docs.google.com/spreadsheets/d/1FmiQ8iC8-Lsmz7wBvX2uqTDpqkmHOrSBMumYh2et0ZY/edit#gid=1160016643)
