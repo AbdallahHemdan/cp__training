@@ -30,11 +30,21 @@
 - [x] Elemenatry Math
 - [x] Modular Arithmetic
 - [x] Counting Principles
+  - [x] Product Rule
+  - [x] Sum Rule
+  - [x] Inclusion-Exclusion-Prinicple
 - [x] DFS
 - [x] Measure algorithm performance
 - [x] Computational geometry (point & vector)
 - [x] PowerSet (generate all subsets of set S)
 - [x] Prefix sum (cumulative sum)
-
+- [ ] Kruskal
+  - [x] Main Idea + Code
+  - [x] Applications
+      - [x] 2nd MST
+      - [x] Partial MST
+      - [x] MiniMax using Kruskal
+        - [x] MiniMax for the whole Graph
+        - [x] MiniMax between 2-nodes
 ## Resources
 - [HemCPC sheet](https://docs.google.com/spreadsheets/d/1FmiQ8iC8-Lsmz7wBvX2uqTDpqkmHOrSBMumYh2et0ZY/edit#gid=1160016643)
