@@ -1,1 +1,0 @@
-https://codeforces.com/gym/100500/submission/63207444
