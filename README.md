@@ -46,7 +46,7 @@
       - [x] MiniMax using Kruskal
         - [x] MiniMax for the whole Graph
         - [x] MiniMax between 2-nodes
-      - [ ] Dynamic Connectivity (find connected commponents dynamically)
+      - [x] Dynamic Connectivity (find connected commponents dynamically)
       - [ ] Count number of Spanning-Trees (Kirchhoff's Theorem : works on unweighted graph)
       - [ ] Count number of MST in graph
 
