@@ -98,6 +98,7 @@ int main() {
 	- ReAdd the edge u removed
 6. Display MST2 value
 
+[More](https://github.com/AbdallahHemdan/CP__Training/blob/master/Graphs__utilities/Second%20best%20MST%20for%20Small%20n.md)
 
 
 ### [2] Partial MST 
