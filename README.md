@@ -26,9 +26,9 @@
 ## Topics 
 > List of basic topics I covered in training
 
-- [x] Adhocs
-- [x] Elemenatry Math
-- [x] Modular Arithmetic
+- [x] ~Adhocs~
+- [x] ~Elemenatry Math~
+- [x] ~Modular Arithmetic~
 - [x] Counting Principles
   - [x] Product Rule
   - [x] Sum Rule
