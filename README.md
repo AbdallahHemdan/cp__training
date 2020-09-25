@@ -36,7 +36,7 @@
 - [x] DFS
 - [x] Measure algorithm performance
 - [x] Computational geometry (point & vector)
-- [x] PowerSet (generate all subsets of set S)
+- [x] ~PowerSet (generate all subsets of set S)~
 - [x] Prefix sum (cumulative sum)
 - [ ] Kruskal
   - [x] Main Idea + Code
