@@ -65,9 +65,9 @@
     - [x] Greedy 
   - [x] G - ~Heavy Coins~
     - [x] PowerSet to generate all subset
-  - [x] B - ~Rock-Paper-Scissors~	
+  - [x] B - Rock-Paper-Scissors
     - [x] Prefix Sum to replace comutation from (n^3) to (n + n^2)
-  - [x] F - ~Travelling Salesman~
+  - [x] F - Travelling Salesman
     - [x] MiniMax in the whole graph using Kruskal
   - [ ] -----
   - [ ] -----
