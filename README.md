@@ -33,14 +33,14 @@
   - [x] ~Product Rule~
   - [x] ~Sum Rule~
   - [x] ~Inclusion-Exclusion-Prinicple~
-- [x] DFS
-  - [x] Connected components
-  - [x] Topological sort
-  - [x] DFS with Flood-Fill
+- [x] ~DFS~
+  - [x] ~Connected components~
+  - [x] ~Topological sort~
+  - [x] ~DFS with Flood-Fill~
 - [x] ~Measure algorithm performance~
-- [x] Computational geometry (point & vector)
 - [x] ~PowerSet (generate all subsets of set S)~
 - [x] ~Prefix sum (cumulative sum)~
+- [x] Computational geometry (point & vector)
 - [ ] Kruskal
   - [x] Main Idea + Code
   - [x] Applications
