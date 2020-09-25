@@ -29,10 +29,10 @@
 - [x] ~Adhocs~
 - [x] ~Elemenatry Math~
 - [x] ~Modular Arithmetic~
-- [x] Counting Principles
-  - [x] Product Rule
-  - [x] Sum Rule
-  - [x] Inclusion-Exclusion-Prinicple
+- [x] ~Counting Principles~
+  - [x] ~Product Rule~
+  - [x] ~Sum Rule~
+  - [x] ~Inclusion-Exclusion-Prinicple~
 - [x] DFS
 - [x] Measure algorithm performance
 - [x] Computational geometry (point & vector)
