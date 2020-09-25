@@ -34,6 +34,9 @@
   - [x] ~Sum Rule~
   - [x] ~Inclusion-Exclusion-Prinicple~
 - [x] DFS
+  - [x] Connected components
+  - [x] Topological sort
+  - [x] DFS with Flood-Fill
 - [x] ~Measure algorithm performance~
 - [x] Computational geometry (point & vector)
 - [x] ~PowerSet (generate all subsets of set S)~
