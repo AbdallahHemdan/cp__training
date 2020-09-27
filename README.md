@@ -41,15 +41,15 @@
 - [x] ~PowerSet (generate all subsets of set S)~
 - [x] ~Prefix sum (cumulative sum)~
 - [x] Computational geometry (point & vector)
-- [ ] Kruskal
-  - [x] Main Idea + Code
-  - [x] Applications
-      - [x] 2nd MST
-      - [x] Partial MST
-      - [x] MiniMax using Kruskal
-        - [x] MiniMax for the whole Graph
-        - [x] MiniMax between 2-nodes
-      - [x] Dynamic Connectivity (find connected commponents dynamically)
+- [ ] ~Kruskal~
+  - [x] ~Main Idea + Code~
+  - [x] ~Applications~
+      - [x] ~2nd MST~
+      - [x] ~Partial MST~
+      - [x] ~MiniMax using Kruskal~
+        - [x] ~MiniMax for the whole Graph~
+        - [x] ~MiniMax between 2-nodes~
+      - [x] ~Dynamic Connectivity (find connected commponents dynamically)~
       - [ ] Count number of Spanning-Trees (Kirchhoff's Theorem : works on unweighted graph)
       - [ ] Count number of MST in graph
 
