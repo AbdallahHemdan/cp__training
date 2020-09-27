@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/AbdallahHemdan/CP__Training" rel="noopener">
     
-  ![Component 2](https://user-images.githubusercontent.com/40190772/87728748-033bf580-c7c4-11ea-8556-de70424932e3.png)
+  ![Component 6](https://user-images.githubusercontent.com/40190772/94355576-67f9b300-0085-11eb-97fd-211d1d1b50f2.png)
   
   </a>
 </p>
 
-<h3 align="center">ACM ICPC Training</h3>
+<h3 align="center">ACM Training</h3>
 <div align="center">
 
 [![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/CP__Training)](https://github.com/AbdallahHemdan/CP__Training/contributors)
