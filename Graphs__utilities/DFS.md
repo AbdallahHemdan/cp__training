@@ -114,3 +114,48 @@ void dfs(int i, int j){
 
 ```
 
+### [5] DFS with Bipartite graph
+> using dfs to check if the current graph is a bipartite graph or not
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Simple-bipartite-graph.svg/1200px-Simple-bipartite-graph.svg.png" width="60%" />
+
+
+```cpp
+// Bipartite Graph Check
+const int N = 1e5 + 15;
+ll color[N];
+vll adj[N];
+bool dfs(ll u = 1) {
+	for (ll v : adj[u]) {
+		if (color[v] == -1) {
+			color[v] = color[u] ^ 1;
+			if (!dfs(v)) {
+				re 0;
+			}
+		}
+		else if (color[v] == color[u]) {
+			re 0;
+		}
+	}
+	re 1;
+}
+
+bool isBipartiteGraph() {
+	mms(color, -1);
+	color[1] = 0;
+	re dfs();
+}
+
+int main() {
+	// freopen("input.txt","r",stdin);
+	// freopen("output.txt","w",stdout);
+	IO;
+	ll n, m; sc2(n, m);
+	lop(i, 0, m) {
+		ll u, v; sc2(u, v);
+		adj[u].PB(v);
+		adj[v].PB(u);
+	}
+	print(isBipartiteGraph());
+}
+```
