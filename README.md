@@ -37,6 +37,7 @@
   - [x] ~Connected components~
   - [x] ~Topological sort~
   - [x] ~DFS with Flood-Fill~
+  - [x] ~DFS with Bipartite Graph~
 - [x] ~Measure algorithm performance~
 - [x] ~PowerSet (generate all subsets of set S)~
 - [x] ~Prefix sum (cumulative sum)~
