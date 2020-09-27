@@ -41,6 +41,7 @@
 - [x] BFS
   - [x] ~Standard BFS~
   - [x] ~BFS topological sort (Khan's Algorithm)~
+  - [ ] Tree diameter using BFS
 - [x] ~Measure algorithm performance~
 - [x] ~PowerSet (generate all subsets of set S)~
 - [x] ~Prefix sum (cumulative sum)~
