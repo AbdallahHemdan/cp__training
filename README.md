@@ -26,27 +26,27 @@
 ## Topics 
 > List of basic topics I covered in training
 
-- [x] ~Adhocs~
-- [x] ~Elemenatry Math~
-- [x] ~Modular Arithmetic~
-- [x] ~Counting Principles~
+- [x] 1. ~Adhocs~
+- [x] 2. ~Elemenatry Math~
+- [x] 3. ~Modular Arithmetic~
+- [x] 4. ~Counting Principles~
   - [x] ~Product Rule~
   - [x] ~Sum Rule~
   - [x] ~Inclusion-Exclusion-Prinicple~
-- [x] ~DFS~
+- [x] 5. ~DFS~
   - [x] ~Connected components~
   - [x] ~Topological sort~
   - [x] ~DFS with Flood-Fill~
   - [x] ~DFS with Bipartite Graph~
-- [x] BFS
+- [x] 6. BFS
   - [x] ~Standard BFS~
   - [x] ~BFS topological sort (Khan's Algorithm)~
   - [ ] Tree diameter using BFS
-- [x] ~Measure algorithm performance~
-- [x] ~PowerSet (generate all subsets of set S)~
-- [x] ~Prefix sum (cumulative sum)~
-- [x] Computational geometry (point & vector)
-- [ ] ~Kruskal~
+- [x] 7. ~Measure algorithm performance~
+- [x] 8. ~PowerSet (generate all subsets of set S)~
+- [x] 9. ~Prefix sum (cumulative sum)~
+- [x] 10. Computational geometry (point & vector)
+- [ ] 11. ~Kruskal~
   - [x] ~Main Idea + Code~
   - [x] ~Applications~
       - [x] ~2nd MST~
