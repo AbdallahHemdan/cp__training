@@ -66,7 +66,7 @@
   - [ ] Intro to DP-2
 - [ ] 17. Intro to Greedy
 - [ ] 18. Tree diameter
-- [ ] 19. Dijkstra
+- [ ] 19. ~Dijkstra~
 - [ ] 20. Number Theory - Primes
 - [ ] 21. Number Theory - Factorization
 - [ ] 22. Floyed
