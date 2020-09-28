@@ -69,6 +69,8 @@
 - [ ] 19. Dijkstra
 - [ ] 20. Number Theory - Primes
 - [ ] 21. Number Theory - Factorization
+- [ ] 22. Floyed
+- [ ] 23. Bellman Ford
 
 ## GYM
 
