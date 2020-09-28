@@ -1,5 +1,4 @@
-## GYM
-### 3🌟
+## 3Star-Contests 🌟🌟🌟
 - [ ] 2015 ACM Amman Collegiate Programming Contest
   - [x] A - ~Who Is The Winner~
     - [x] Implementation
@@ -27,6 +26,8 @@
     - [ ] Implementation
   - [x] C - ~Cheat Sheet~
     - [ ] Implementation using set, custome compare function
+  - [x] A - ~Archmage~
+    - [ ] Implementation & Greedy
  
 - [ ] UCF Locals 2019
   - [x] A - ~Divide the Cash~
