@@ -41,7 +41,6 @@
 - [x] 6. BFS
   - [x] ~Standard BFS~
   - [x] ~BFS topological sort (Khan's Algorithm)~
-  - [ ] Tree diameter using BFS
 - [x] 7. ~Measure algorithm performance~
 - [x] 8. ~PowerSet (generate all subsets of set S)~
 - [x] 9. ~Prefix sum (cumulative sum)~
@@ -71,7 +70,7 @@
 - [ ] 21. Number Theory - Factorization
 - [ ] 22. Floyed
 - [ ] 23. Bellman Ford
-
+- [x] 24. ~Tree diameter using BFS~
 ## GYM
 
 - [ ] 2015 ACM Amman Collegiate Programming Contest
