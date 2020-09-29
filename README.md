@@ -68,7 +68,7 @@
 - [ ] 19. ~Dijkstra~
 - [ ] 20. Number Theory - Primes
 - [ ] 21. Number Theory - Factorization
-- [ ] 22. Floyed
+- [ ] 22. Floyd
 - [ ] 23. Bellman Ford
 - [x] 24. ~Tree diameter using BFS~
 
