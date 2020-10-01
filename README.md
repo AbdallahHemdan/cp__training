@@ -83,7 +83,3 @@
 - [ ] 32. Lowest Common Ancestor (LCA)
 - [ ] 33. Max Flow
   - [ ] Edmonds-Karp's Algorithm
-
-  
-## Resources
-- [HemCPC sheet](https://docs.google.com/spreadsheets/d/1FmiQ8iC8-Lsmz7wBvX2uqTDpqkmHOrSBMumYh2et0ZY/edit#gid=1160016643)
