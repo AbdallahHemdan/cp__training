@@ -71,6 +71,7 @@
 - [ ] 22. Floyd
 - [ ] 23. Bellman Ford
 - [x] 24. ~Tree diameter using BFS~
+- [ ] 25. Binary Indexed Tree (Fenwick)
 
   
 ## Resources
