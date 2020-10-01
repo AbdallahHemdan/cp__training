@@ -67,7 +67,14 @@
 - [ ] 18. ~Dijkstra~
 - [ ] 19. Number Theory - Primes
 - [ ] 20. Number Theory - Factorization
-- [ ] 21. Floyd
+- [x] 21. ~Floyd~
+  - [x] ~TransitiveClosure~
+  - [x] ~minmax~
+  - [x] ~maxmin~
+  - [x] ~countPaths~
+  - [x] ~checkNegativeCycle~
+  - [x] ~longestPathDAG~
+  - [x] ~graphDiameter~
 - [ ] 22. Bellman Ford
 - [x] 23. ~Tree diameter using BFS~
 - [x] 24. ~Binary Indexed Tree (Fenwick)~
