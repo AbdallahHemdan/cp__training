@@ -70,7 +70,7 @@
 - [ ] 21. Floyd
 - [ ] 22. Bellman Ford
 - [x] 23. ~Tree diameter using BFS~
-- [ ] 24. Binary Indexed Tree (Fenwick)
+- [x] 24. ~Binary Indexed Tree (Fenwick)~
 - [ ] 25. Sparse Table
 - [ ] 26. Monotonic Queue
 - [ ] 27. Segment Tree
