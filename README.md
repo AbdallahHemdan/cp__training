@@ -83,3 +83,4 @@
 - [ ] 32. Lowest Common Ancestor (LCA)
 - [ ] 33. Max Flow
   - [ ] Edmonds-Karp's Algorithm
+- [ ] 34. Manacher’s Algorithm
