@@ -38,7 +38,7 @@
   - [x] ~Topological sort~
   - [x] ~DFS with Flood-Fill~
   - [x] ~DFS with Bipartite Graph~
-- [x] 6. BFS
+- [x] 6. ~BFS~
   - [x] ~Standard BFS~
   - [x] ~BFS topological sort (Khan's Algorithm)~
 - [x] 7. ~Measure algorithm performance~
@@ -64,14 +64,13 @@
   - [ ] Intro to DP-1
   - [ ] Intro to DP-2
 - [ ] 17. Intro to Greedy
-- [ ] 18. Tree diameter
-- [ ] 19. ~Dijkstra~
-- [ ] 20. Number Theory - Primes
-- [ ] 21. Number Theory - Factorization
-- [ ] 22. Floyd
-- [ ] 23. Bellman Ford
-- [x] 24. ~Tree diameter using BFS~
-- [ ] 25. Binary Indexed Tree (Fenwick)
+- [ ] 18. ~Dijkstra~
+- [ ] 19. Number Theory - Primes
+- [ ] 20. Number Theory - Factorization
+- [ ] 21. Floyd
+- [ ] 22. Bellman Ford
+- [x] 23. ~Tree diameter using BFS~
+- [ ] 24. Binary Indexed Tree (Fenwick)
 
   
 ## Resources
