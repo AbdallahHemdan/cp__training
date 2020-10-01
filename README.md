@@ -71,6 +71,18 @@
 - [ ] 22. Bellman Ford
 - [x] 23. ~Tree diameter using BFS~
 - [ ] 24. Binary Indexed Tree (Fenwick)
+- [ ] 25. Sparse Table
+- [ ] 26. Monotonic Queue
+- [ ] 27. Segment Tree
+- [ ] 28. SQRT Decomposition
+  - [ ] Mo's Algorithm
+- [ ] 29. KMP
+- [ ] 30. Trie
+- [ ] 31. Strongly Connected Components (SCC)
+  - [ ] Kosaraju's Algorithm
+- [ ] 32. Lowest Common Ancestor (LCA)
+- [ ] 33. Max Flow
+  - [ ] Edmonds-Karp's Algorithm
 
   
 ## Resources
