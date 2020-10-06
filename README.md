@@ -98,3 +98,4 @@
   - [ ] Edmonds-Karp's Algorithm
 - [ ] 34. Manacher’s Algorithm
 - [ ] 35. Monotonic Queue
+- [ ] 36. Line sweep
