@@ -81,12 +81,12 @@
 - [ ] 25. Sparse Table
 - [ ] 26. Monotonic Queue
 - [ ] 27. Segment Tree
-  - [x] Segment tree basic idea
-  - [x] Segment tree Sum, miniumum, ...etc
-  - [x] The segment with the maximum sum
-  - [x] K-th one
-  - [x] The first element greater than or equal to x
-  - [x] The first element greater than or equal to x in index larger that l
+  - [x] ~Segment tree basic idea~
+  - [x] ~Segment tree Sum, miniumum, ...etc~
+  - [x] ~The segment with the maximum sum~
+  - [x] ~K-th one~
+  - [x] ~The first element greater than or equal to x~
+  - [x] ~The first element greater than or equal to x in index larger that l~
 - [ ] 28. SQRT Decomposition
   - [ ] Mo's Algorithm
 - [ ] 29. KMP
