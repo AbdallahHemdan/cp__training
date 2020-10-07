@@ -96,6 +96,7 @@
 - [ ] 32. Lowest Common Ancestor (LCA)
 - [ ] 33. Max Flow
   - [ ] Edmonds-Karp's Algorithm
+  - [ ] Dinic
 - [ ] 34. Manacher’s Algorithm
 - [ ] 35. Monotonic Queue
 - [ ] 36. Line sweep
