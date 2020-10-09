@@ -1,3 +1,7 @@
 # Problems on max flow
 
-List: https://www.spoj.com/problems/tag/max-flow?sort=11
+- https://www.spoj.com/problems/tag/max-flow?sort=11
+
+# Useful links
+
+- https://cp-algorithms.com/graph/edmonds_karp.html
