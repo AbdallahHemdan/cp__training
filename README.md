@@ -56,10 +56,10 @@
       - [x] ~Dynamic Connectivity (find connected commponents dynamically)~
       - [ ] Count number of Spanning-Trees (Kirchhoff's Theorem : works on unweighted graph)
       - [ ] Count number of MST in graph
-- [ ] 12. Binary Search
+- [ ] 12. ~Binary Search~
 - [ ] 13. Combinatorics(Permutations - Combinations)
 - [ ] 14. Number Theory(Fib - GCD - LCM - Pow)
-- [ ] 15. Recursion
+- [ ] 15. ~Recursion~
 - [ ] 16. Intro to DP
   - [ ] Intro to DP-1
   - [ ] Intro to DP-2
