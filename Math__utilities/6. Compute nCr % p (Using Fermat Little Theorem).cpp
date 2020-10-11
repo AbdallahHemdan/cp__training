@@ -1,3 +1,5 @@
+// SRC: https://www.geeksforgeeks.org/compute-ncr-p-set-3-using-fermat-little-theorem/
+
 const int MOD = 1e9 + 7;
 const int N = 1e5;
 ll fact[N + 5];
