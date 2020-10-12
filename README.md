@@ -81,7 +81,7 @@
 - [x] 23. ~Tree diameter using BFS~
 - [x] 24. ~Binary Indexed Tree (Fenwick)~
 - [ ] 25. Sparse Table
-- [ ] 26. Monotonic Queue
+- [x] 26. ~Range Sum Query 2D~
 - [ ] 27. Segment Tree
   - [x] ~Segment tree basic idea~
   - [x] ~Segment tree Sum, miniumum, ...etc~
@@ -100,9 +100,9 @@
   - [ ] Edmonds-Karp's Algorithm
   - [ ] Dinic
 - [ ] 34. Manacher’s Algorithm
-- [ ] 35. Monotonic Queue
-- [ ] 36. Line sweep
-- [x] 37. ~Range Sum Query 2D~
+- [ ] 35. Line sweep
+- [ ] 36. Monotonic Stack
+- [ ] 37. Monotonic Queue
 
 
 ## TO UPSOVLE
