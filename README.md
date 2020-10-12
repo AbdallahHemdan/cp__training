@@ -56,15 +56,15 @@
       - [x] ~Dynamic Connectivity (find connected commponents dynamically)~
       - [ ] Count number of Spanning-Trees (Kirchhoff's Theorem : works on unweighted graph)
       - [ ] Count number of MST in graph
-- [ ] 12. ~Binary Search~
+- [x] 12. ~Binary Search~
 - [ ] 13. Combinatorics(Permutations - Combinations)
 - [ ] 14. Number Theory(Fib - GCD - LCM - Pow)
-- [ ] 15. ~Recursion~
+- [x] 15. ~Recursion~
 - [ ] 16. Intro to DP
   - [ ] Intro to DP-1
   - [ ] Intro to DP-2
-- [ ] 17. Intro to Greedy
-- [ ] 18. ~Dijkstra~
+- [x] 17. ~Intro to Greedy~
+- [x] 18. ~Dijkstra~
 - [ ] 19. Number Theory - Primes
 - [ ] 20. Number Theory - Factorization
 - [x] 21. ~Floyd~
@@ -75,7 +75,8 @@
   - [x] ~checkNegativeCycle~
   - [x] ~longestPathDAG~
   - [x] ~graphDiameter~
-- [ ] 22. Bellman Ford
+- [x] 22. ~Bellman Ford~
+  - [x] Detect and find (-ve) cycle
 - [x] 23. ~Tree diameter using BFS~
 - [x] 24. ~Binary Indexed Tree (Fenwick)~
 - [ ] 25. Sparse Table
