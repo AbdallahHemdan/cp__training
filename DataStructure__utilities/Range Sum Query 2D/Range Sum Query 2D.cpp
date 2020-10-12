@@ -1,3 +1,4 @@
+// https://leetcode.com/articles/range-sum-query-2d-immutable/
 const int N = 1010;
 const int M = 1010;
 int dp[N][M];
