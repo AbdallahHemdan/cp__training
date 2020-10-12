@@ -102,7 +102,7 @@
 - [ ] 34. Manacher’s Algorithm
 - [ ] 35. Monotonic Queue
 - [ ] 36. Line sweep
-- [x] 37. Range Sum Query 2D
+- [x] 37. ~Range Sum Query 2D~
 
 
 ## TO UPSOVLE
