@@ -8,7 +8,10 @@ ll dist[N];
 ll part[N];
 vector<Edge> edges;
 
-void bellman() {
+void bellman(int src = 1) {
+    memset(part, -1, sizeof(part));
+    memset(dist, 0x3f, sizeof(dist));
+    dist[src] = 0;
     for (int i = 0; i < n; ++i) {
         x = -1;
         for (Edge e : edges) {
@@ -37,7 +40,10 @@ int main() {
         edges.push_back({u, v, c});
     }
     bellman();
-    if (x == -1) {  // has no negative cycle (couldn't relax in the nth iteration)
+    for (int i = 1; i <= n; i++) {
+        cout << dist[i] << endl;
+    }
+    if (x == -1) { // has no negative cycle (couldn't relax in the nth iteration)
         cout << "NO" << endl;
     } else {  // has negative cycle (could relax in the nth iteration)
         for (int i = 0; i < n; ++i) x = part[x];
