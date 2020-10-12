@@ -104,8 +104,13 @@
 
 
 ## TO UPSOVLE
-1. https://codeforces.com/gym/101498
-  - [ ] F
-  - [ ] K
-  - [ ] L
-  - [ ] M
+#### https://codeforces.com/gym/101498
+- [ ] F
+- [ ] K
+- [ ] L
+- [ ] M
+
+#### CSES (Graph problems)
+- [ ] Monsters
+- [ ] High Score
+- [ ] Flight discount
