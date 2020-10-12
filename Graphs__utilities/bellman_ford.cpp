@@ -60,3 +60,8 @@ int main() {
         cout << endl;
     }
 }
+
+
+/*
+* note: to detect +ve cycle => multiply all edges by (-1) and run bellman
+*/
