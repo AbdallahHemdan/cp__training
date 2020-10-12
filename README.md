@@ -76,7 +76,7 @@
   - [x] ~longestPathDAG~
   - [x] ~graphDiameter~
 - [x] 22. ~Bellman Ford~
-  - [x] Detect and find (-ve) cycle
+  - [x] ~Detect and find (-ve) cycle~
 - [x] 23. ~Tree diameter using BFS~
 - [x] 24. ~Binary Indexed Tree (Fenwick)~
 - [ ] 25. Sparse Table
