@@ -113,6 +113,6 @@
 - [ ] M
 
 #### CSES (Graph problems)
-- [ ] Monsters
-- [ ] High Score
-- [ ] Flight discount
+- [x] ~Monsters~
+- [x] ~High Score~
+- [x] ~Flight discount~
