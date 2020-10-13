@@ -101,8 +101,8 @@
   - [ ] Dinic
 - [ ] 34. Manacher’s Algorithm
 - [ ] 35. Line sweep
-- [ ] 36. Monotonic Stack
-- [ ] 37. Monotonic Queue
+- [x] 36. ~Monotonic Stack~
+- [x] 37. ~Monotonic Queue with 2 Monotonic-Stacks~
 
 
 ## TO UPSOVLE
