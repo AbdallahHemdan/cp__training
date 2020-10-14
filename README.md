@@ -95,15 +95,16 @@
 - [ ] 30. Trie
 - [ ] 31. Strongly Connected Components (SCC)
   - [ ] Kosaraju's Algorithm
-- [ ] 32. Lowest Common Ancestor (LCA)
+- [ ] 32. Sparse table for RMQ
+- [ ] 33. Lowest Common Ancestor (LCA)
   - [ ] Lowest Common Ancestor - Binary Lifting
-- [ ] 33. Max Flow
+- [ ] 34. Max Flow
   - [ ] Edmonds-Karp's Algorithm
   - [ ] Dinic
-- [ ] 34. Manacher’s Algorithm
-- [ ] 35. Line sweep
-- [x] 36. ~Monotonic Stack~
-- [x] 37. ~Monotonic Queue with 2 Monotonic-Stacks~
+- [ ] 35. Manacher’s Algorithm
+- [ ] 36. Line sweep
+- [x] 37. ~Monotonic Stack~
+- [x] 38. ~Monotonic Queue with 2 Monotonic-Stacks~
 
 
 ## TO UPSOVLE
