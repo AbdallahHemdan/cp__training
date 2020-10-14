@@ -96,6 +96,7 @@
 - [ ] 31. Strongly Connected Components (SCC)
   - [ ] Kosaraju's Algorithm
 - [ ] 32. Lowest Common Ancestor (LCA)
+  - [ ] Lowest Common Ancestor - Binary Lifting
 - [ ] 33. Max Flow
   - [ ] Edmonds-Karp's Algorithm
   - [ ] Dinic
