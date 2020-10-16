@@ -83,7 +83,7 @@
 - [x] 24. ~Binary Indexed Tree (Fenwick)~
 - [ ] 25. Sparse Table
 - [x] 26. ~Range Sum Query 2D~
-- [ ] 27. Segment Tree
+- [x] 27. Segment Tree
   - [x] ~Segment tree basic idea~
   - [x] ~Segment tree Sum, miniumum, ...etc~
   - [x] ~The segment with the maximum sum~
