@@ -60,9 +60,10 @@
 - [ ] 13. Combinatorics(Permutations - Combinations)
 - [ ] 14. Number Theory(Fib - GCD - LCM - Pow)
 - [x] 15. ~Recursion~
-- [ ] 16. Intro to DP
-  - [ ] Intro to DP-1
-  - [ ] Intro to DP-2
+- [ ] 16. Dynamic Programming
+  - [ ] Dynamic Programming - Introduction - 1
+  - [ ] Dynamic Programming - Introduction - 2
+  - [ ] Dynamic Programming - Subset Style
 - [x] 17. ~Intro to Greedy~
 - [x] 18. ~Dijkstra~
 - [ ] 19. Number Theory - Primes
