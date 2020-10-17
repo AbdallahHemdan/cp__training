@@ -45,7 +45,7 @@
 - [x] 8. ~PowerSet (generate all subsets of set S)~
 - [x] 9. ~Prefix sum (cumulative sum)~
 - [x] 10. ~Computational geometry (point & vector)~
-- [ ] 11. ~Kruskal~
+- [x] 11. ~Kruskal~
   - [x] ~Main Idea + Code~
   - [x] ~Applications~
       - [x] ~2nd MST~
