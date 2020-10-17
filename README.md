@@ -59,8 +59,8 @@
 - [x] 12. ~Binary Search~
 - [x] 13. ~Recursion~
 - [ ] 14. Dynamic Programming
-  - [x] Dynamic Programming - Introduction - 1
-  - [ ] Dynamic Programming - Introduction - 2
+  - [x] ~Dynamic Programming - Introduction - 1~
+  - [x] ~Dynamic Programming - Introduction - 2~
   - [ ] Dynamic Programming - Subset Style
 - [x] 15. ~Intro to Greedy~
 - [x] 16. ~Dijkstra~
