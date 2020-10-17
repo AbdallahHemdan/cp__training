@@ -105,6 +105,8 @@
 - [ ] 35. Number Theory - Factorization
 - [ ] 36. Combinatorics(Permutations - Combinations)
 - [ ] 37. Number Theory(Fib - GCD - LCM - Pow)
+- [ ] 38. 0-1 BFS
+- [ ] Max Clique
 
 ## TO UPSOVLE
 #### https://codeforces.com/gym/101498
