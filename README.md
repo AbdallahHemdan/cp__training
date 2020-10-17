@@ -66,9 +66,7 @@
   - [ ] Dynamic Programming - Subset Style
 - [x] 17. ~Intro to Greedy~
 - [x] 18. ~Dijkstra~
-- [ ] 19. Number Theory - Primes
-- [ ] 20. Number Theory - Factorization
-- [x] 21. ~Floyd~
+- [x] 19. ~Floyd~
   - [x] ~TransitiveClosure~
   - [x] ~minmax~
   - [x] ~maxmin~
@@ -76,36 +74,37 @@
   - [x] ~checkNegativeCycle~
   - [x] ~longestPathDAG~
   - [x] ~graphDiameter~
-- [x] 22. ~Bellman Ford~
+- [x] 20. ~Bellman Ford~
   - [x] ~Detect and find (-ve) cycle~
   - [x] ~Detect and find (+ve) cycle~
-- [x] 23. ~Tree diameter using BFS~
-- [x] 24. ~Binary Indexed Tree (Fenwick)~
-- [ ] 25. Sparse Table
-- [x] 26. ~Range Sum Query 2D~
-- [x] 27. Segment Tree
+- [x] 21. ~Tree diameter using BFS~
+- [x] 22. ~Binary Indexed Tree (Fenwick)~
+- [ ] 23. Line sweep
+- [x] 24. ~Range Sum Query 2D~
+- [x] 25. Segment Tree
   - [x] ~Segment tree basic idea~
   - [x] ~Segment tree Sum, miniumum, ...etc~
   - [x] ~The segment with the maximum sum~
   - [x] ~K-th one~
   - [x] ~The first element greater than or equal to x~
   - [x] ~The first element greater than or equal to x in index larger that l~
-- [ ] 28. SQRT Decomposition
+- [ ] 26. SQRT Decomposition
   - [ ] Mo's Algorithm
-- [ ] 29. KMP
-- [ ] 30. Trie
-- [ ] 31. Strongly Connected Components (SCC)
+- [ ] 27. KMP
+- [ ] 28. Trie
+- [ ] 29. Strongly Connected Components (SCC)
   - [ ] Kosaraju's Algorithm
-- [ ] 32. Sparse table for RMQ
-- [ ] 33. Lowest Common Ancestor (LCA)
+- [ ] 30. Sparse table for RMQ
+- [ ] 31. Lowest Common Ancestor (LCA)
   - [ ] Lowest Common Ancestor - Binary Lifting
-- [ ] 34. Max Flow
+- [ ] 32. Max Flow
   - [ ] Edmonds-Karp's Algorithm
   - [ ] Dinic
-- [ ] 35. Manacher’s Algorithm
-- [ ] 36. Line sweep
-- [x] 37. ~Monotonic Stack~
-- [x] 38. ~Monotonic Queue with 2 Monotonic-Stacks~
+- [ ] 33. Manacher’s Algorithm
+- [ ] 34. ~Monotonic Stack~
+- [x] 35. ~Monotonic Queue with 2 Monotonic-Stacks~
+- [ ] 36. Number Theory - Primes
+- [ ] 37. Number Theory - Factorization
 
 
 ## TO UPSOVLE
