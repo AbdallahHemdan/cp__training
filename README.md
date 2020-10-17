@@ -61,7 +61,7 @@
 - [ ] 14. Number Theory(Fib - GCD - LCM - Pow)
 - [x] 15. ~Recursion~
 - [ ] 16. Dynamic Programming
-  - [ ] Dynamic Programming - Introduction - 1
+  - [x] Dynamic Programming - Introduction - 1
   - [ ] Dynamic Programming - Introduction - 2
   - [ ] Dynamic Programming - Subset Style
 - [x] 17. ~Intro to Greedy~
