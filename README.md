@@ -57,16 +57,14 @@
       - [ ] Count number of Spanning-Trees (Kirchhoff's Theorem : works on unweighted graph)
       - [ ] Count number of MST in graph
 - [x] 12. ~Binary Search~
-- [ ] 13. Combinatorics(Permutations - Combinations)
-- [ ] 14. Number Theory(Fib - GCD - LCM - Pow)
-- [x] 15. ~Recursion~
-- [ ] 16. Dynamic Programming
+- [x] 13. ~Recursion~
+- [ ] 14. Dynamic Programming
   - [x] Dynamic Programming - Introduction - 1
   - [ ] Dynamic Programming - Introduction - 2
   - [ ] Dynamic Programming - Subset Style
-- [x] 17. ~Intro to Greedy~
-- [x] 18. ~Dijkstra~
-- [x] 19. ~Floyd~
+- [x] 15. ~Intro to Greedy~
+- [x] 16. ~Dijkstra~
+- [x] 17. ~Floyd~
   - [x] ~TransitiveClosure~
   - [x] ~minmax~
   - [x] ~maxmin~
@@ -74,38 +72,39 @@
   - [x] ~checkNegativeCycle~
   - [x] ~longestPathDAG~
   - [x] ~graphDiameter~
-- [x] 20. ~Bellman Ford~
+- [x] 18. ~Bellman Ford~
   - [x] ~Detect and find (-ve) cycle~
   - [x] ~Detect and find (+ve) cycle~
-- [x] 21. ~Tree diameter using BFS~
-- [x] 22. ~Binary Indexed Tree (Fenwick)~
-- [ ] 23. Line sweep
-- [x] 24. ~Range Sum Query 2D~
-- [x] 25. Segment Tree
+- [x] 19. ~Tree diameter using BFS~
+- [x] 20. ~Binary Indexed Tree (Fenwick)~
+- [x] 21. ~Range Sum Query 2D~
+- [x] 22. ~Segment Tree~
   - [x] ~Segment tree basic idea~
   - [x] ~Segment tree Sum, miniumum, ...etc~
   - [x] ~The segment with the maximum sum~
   - [x] ~K-th one~
   - [x] ~The first element greater than or equal to x~
   - [x] ~The first element greater than or equal to x in index larger that l~
-- [ ] 26. SQRT Decomposition
+- [x] 23. ~Monotonic Stack~
+- [x] 24. ~Monotonic Queue with 2 Monotonic-Stacks~
+- [ ] 25. SQRT Decomposition
   - [ ] Mo's Algorithm
-- [ ] 27. KMP
-- [ ] 28. Trie
-- [ ] 29. Strongly Connected Components (SCC)
+- [ ] 26. KMP
+- [ ] 27. Trie
+- [ ] 28. Strongly Connected Components (SCC)
   - [ ] Kosaraju's Algorithm
-- [ ] 30. Sparse table for RMQ
-- [ ] 31. Lowest Common Ancestor (LCA)
+- [ ] 29. Sparse table for RMQ
+- [ ] 30. Lowest Common Ancestor (LCA)
   - [ ] Lowest Common Ancestor - Binary Lifting
-- [ ] 32. Max Flow
+- [ ] 31. Max Flow
   - [ ] Edmonds-Karp's Algorithm
   - [ ] Dinic
-- [ ] 33. Manacher’s Algorithm
-- [ ] 34. ~Monotonic Stack~
-- [x] 35. ~Monotonic Queue with 2 Monotonic-Stacks~
-- [ ] 36. Number Theory - Primes
-- [ ] 37. Number Theory - Factorization
-
+- [ ] 32. Manacher’s Algorithm
+- [ ] 33. Line sweep
+- [ ] 34. Number Theory - Primes
+- [ ] 35. Number Theory - Factorization
+- [ ] 36. Combinatorics(Permutations - Combinations)
+- [ ] 37. Number Theory(Fib - GCD - LCM - Pow)
 
 ## TO UPSOVLE
 #### https://codeforces.com/gym/101498
