@@ -107,6 +107,10 @@
 - [ ] 37. Number Theory(Fib - GCD - LCM - Pow)
 - [ ] 38. 0-1 BFS
 - [ ] Max Clique
+- [ ] Prims's Algorithm
+- [ ] SCC (Strongly connected components)
+- [ ] Matrix Power
+- [ ] Ternary search
 
 ## TO UPSOVLE
 #### https://codeforces.com/gym/101498
