@@ -106,11 +106,11 @@
 - [ ] 36. Combinatorics(Permutations - Combinations)
 - [ ] 37. Number Theory(Fib - GCD - LCM - Pow)
 - [ ] 38. 0-1 BFS
-- [ ] Max Clique
-- [ ] Prims's Algorithm
-- [ ] SCC (Strongly connected components)
-- [ ] Matrix Power
-- [ ] Ternary search
+- [ ] 39. Max Clique
+- [ ] 40. Prims's Algorithm
+- [ ] 41. SCC (Strongly connected components)
+- [ ] 42. Matrix Power
+- [ ] 43. Ternary search
 
 ## TO UPSOVLE
 #### https://codeforces.com/gym/101498
