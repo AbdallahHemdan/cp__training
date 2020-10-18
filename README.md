@@ -45,7 +45,7 @@
 - [x] 8. ~PowerSet (generate all subsets of set S)~
 - [x] 9. ~Prefix sum (cumulative sum)~
 - [x] 10. ~Computational geometry (point & vector)~
-- [ ] 11. ~Kruskal~
+- [x] 11. ~Kruskal~
   - [x] ~Main Idea + Code~
   - [x] ~Applications~
       - [x] ~2nd MST~
@@ -57,18 +57,14 @@
       - [ ] Count number of Spanning-Trees (Kirchhoff's Theorem : works on unweighted graph)
       - [ ] Count number of MST in graph
 - [x] 12. ~Binary Search~
-- [ ] 13. Combinatorics(Permutations - Combinations)
-- [ ] 14. Number Theory(Fib - GCD - LCM - Pow)
-- [x] 15. ~Recursion~
-- [ ] 16. Dynamic Programming
-  - [ ] Dynamic Programming - Introduction - 1
-  - [ ] Dynamic Programming - Introduction - 2
+- [x] 13. ~Recursion~
+- [ ] 14. Dynamic Programming
+  - [x] ~Dynamic Programming - Introduction - 1~
+  - [x] ~Dynamic Programming - Introduction - 2~
   - [ ] Dynamic Programming - Subset Style
-- [x] 17. ~Intro to Greedy~
-- [x] 18. ~Dijkstra~
-- [ ] 19. Number Theory - Primes
-- [ ] 20. Number Theory - Factorization
-- [x] 21. ~Floyd~
+- [x] 15. ~Intro to Greedy~
+- [x] 16. ~Dijkstra~
+- [x] 17. ~Floyd~
   - [x] ~TransitiveClosure~
   - [x] ~minmax~
   - [x] ~maxmin~
@@ -76,37 +72,45 @@
   - [x] ~checkNegativeCycle~
   - [x] ~longestPathDAG~
   - [x] ~graphDiameter~
-- [x] 22. ~Bellman Ford~
+- [x] 18. ~Bellman Ford~
   - [x] ~Detect and find (-ve) cycle~
   - [x] ~Detect and find (+ve) cycle~
-- [x] 23. ~Tree diameter using BFS~
-- [x] 24. ~Binary Indexed Tree (Fenwick)~
-- [ ] 25. Sparse Table
-- [x] 26. ~Range Sum Query 2D~
-- [ ] 27. Segment Tree
+- [x] 19. ~Tree diameter using BFS~
+- [x] 20. ~Binary Indexed Tree (Fenwick)~
+- [x] 21. ~Range Sum Query 2D~
+- [x] 22. ~Segment Tree~
   - [x] ~Segment tree basic idea~
   - [x] ~Segment tree Sum, miniumum, ...etc~
   - [x] ~The segment with the maximum sum~
   - [x] ~K-th one~
   - [x] ~The first element greater than or equal to x~
   - [x] ~The first element greater than or equal to x in index larger that l~
-- [ ] 28. SQRT Decomposition
+- [x] 23. ~Monotonic Stack~
+- [x] 24. ~Monotonic Queue with 2 Monotonic-Stacks~
+- [ ] 25. SQRT Decomposition
   - [ ] Mo's Algorithm
-- [ ] 29. KMP
-- [ ] 30. Trie
-- [ ] 31. Strongly Connected Components (SCC)
+- [ ] 26. KMP
+- [ ] 27. Trie
+- [ ] 28. Strongly Connected Components (SCC)
   - [ ] Kosaraju's Algorithm
-- [ ] 32. Sparse table for RMQ
-- [ ] 33. Lowest Common Ancestor (LCA)
+- [ ] 29. Sparse table for RMQ
+- [ ] 30. Lowest Common Ancestor (LCA)
   - [ ] Lowest Common Ancestor - Binary Lifting
-- [ ] 34. Max Flow
+- [ ] 31. Max Flow
   - [ ] Edmonds-Karp's Algorithm
   - [ ] Dinic
-- [ ] 35. Manacher’s Algorithm
-- [ ] 36. Line sweep
-- [x] 37. ~Monotonic Stack~
-- [x] 38. ~Monotonic Queue with 2 Monotonic-Stacks~
-
+- [ ] 32. Manacher’s Algorithm
+- [ ] 33. Line sweep
+- [ ] 34. Number Theory - Primes
+- [ ] 35. Number Theory - Factorization
+- [ ] 36. Combinatorics(Permutations - Combinations)
+- [ ] 37. Number Theory(Fib - GCD - LCM - Pow)
+- [ ] 38. 0-1 BFS
+- [ ] 39. Max Clique
+- [ ] 40. Prims's Algorithm
+- [ ] 41. SCC (Strongly connected components)
+- [ ] 42. Matrix Power
+- [ ] 43. Ternary search
 
 ## TO UPSOVLE
 #### https://codeforces.com/gym/101498
