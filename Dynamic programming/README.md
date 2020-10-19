@@ -5,25 +5,12 @@
 ## List of problems
 > List of problems in DP topic
 
-- [ ] TopCoder 
+- [x] TopCoder 
   - [x] [RGBStreet TopCoder - 6680](https://vjudge.net/problem/TopCoder-6680)
   - [x] [MaximalProduct TopCoder - 8760](https://vjudge.net/problem/TopCoder-8760)
-- [ ] CSES
+- [x] CSES
   - [x] [CSES - Dice Combinations](https://cses.fi/problemset/task/1633)
   - [x] [CSES - Minimizing Coins](https://cses.fi/problemset/task/1634)
-
-- [ ] http://codeforces.com/contest/699/problem/C
-- [ ] http://codeforces.com/contest/545/problem/C
-- [ ] http://codeforces.com/contest/550/problem/C
-- [ ] https://codeforces.com/contest/626/problem/B
-- [ ] https://vjudge.net/problem/UVA-10130
-- [ ] https://www.spoj.com/problems/COINS/
-- [ ] https://vjudge.net/problem/UVA-10616
-- [ ] https://www.hackerrank.com/challenges/coin-change/problem
-- [ ] https://www.spoj.com/problems/ELIS/
-- [ ] https://vjudge.net/problem/UVA-357
-- [ ] https://codeforces.com/problemset/problem/855/B
-- [ ] http://codeforces.com/contest/225/problem/C
 
 - [ ] AtCoder - Educational DP Contest
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_a
@@ -52,3 +39,17 @@
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_x
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_y
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_z
+
+- [ ] http://codeforces.com/contest/699/problem/C
+- [ ] http://codeforces.com/contest/545/problem/C
+- [ ] http://codeforces.com/contest/550/problem/C
+- [ ] https://codeforces.com/contest/626/problem/B
+- [ ] https://vjudge.net/problem/UVA-10130
+- [ ] https://www.spoj.com/problems/COINS/
+- [ ] https://vjudge.net/problem/UVA-10616
+- [ ] https://www.hackerrank.com/challenges/coin-change/problem
+- [ ] https://www.spoj.com/problems/ELIS/
+- [ ] https://vjudge.net/problem/UVA-357
+- [ ] https://codeforces.com/problemset/problem/855/B
+- [ ] http://codeforces.com/contest/225/problem/C
+
