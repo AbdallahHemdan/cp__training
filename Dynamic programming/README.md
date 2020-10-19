@@ -14,7 +14,7 @@
 
 - [ ] AtCoder - Educational DP Contest
   - [x] https://atcoder.jp/contests/dp/tasks/dp_a
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_b
+  - [x] https://atcoder.jp/contests/dp/tasks/dp_b
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_c
   - [x] https://atcoder.jp/contests/dp/tasks/dp_d
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_e
