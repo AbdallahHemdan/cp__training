@@ -13,32 +13,32 @@
   - [x] [CSES - Minimizing Coins](https://cses.fi/problemset/task/1634)
 
 - [ ] AtCoder - Educational DP Contest
-  - [x] https://atcoder.jp/contests/dp/tasks/dp_a
-  - [x] https://atcoder.jp/contests/dp/tasks/dp_b
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_c
-  - [x] https://atcoder.jp/contests/dp/tasks/dp_d
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_e
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_f
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_g
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_h
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_i
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_j
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_k
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_l
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_m
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_n
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_o
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_p
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_q
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_r
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_s
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_t
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_u
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_v
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_w
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_x
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_y
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_z
+  - [x] [A](https://atcoder.jp/contests/dp/tasks/dp_a)
+  - [x] [B](https://atcoder.jp/contests/dp/tasks/dp_b)
+  - [x] [C](https://atcoder.jp/contests/dp/tasks/dp_c)
+  - [x] [D](https://atcoder.jp/contests/dp/tasks/dp_d)
+  - [ ] [E](https://atcoder.jp/contests/dp/tasks/dp_e)
+  - [ ] [F](https://atcoder.jp/contests/dp/tasks/dp_f)
+  - [ ] [G](https://atcoder.jp/contests/dp/tasks/dp_g)
+  - [ ] [H](https://atcoder.jp/contests/dp/tasks/dp_h)
+  - [ ] [I](https://atcoder.jp/contests/dp/tasks/dp_i)
+  - [ ] [J](https://atcoder.jp/contests/dp/tasks/dp_j)
+  - [ ] [K](https://atcoder.jp/contests/dp/tasks/dp_k)
+  - [ ] [L](https://atcoder.jp/contests/dp/tasks/dp_l)
+  - [ ] [M](https://atcoder.jp/contests/dp/tasks/dp_m)
+  - [ ] [N](https://atcoder.jp/contests/dp/tasks/dp_n)
+  - [ ] [O](https://atcoder.jp/contests/dp/tasks/dp_o)
+  - [ ] [P](https://atcoder.jp/contests/dp/tasks/dp_p)
+  - [ ] [Q](https://atcoder.jp/contests/dp/tasks/dp_q)
+  - [ ] [R](https://atcoder.jp/contests/dp/tasks/dp_r)
+  - [ ] [S](https://atcoder.jp/contests/dp/tasks/dp_s)
+  - [ ] [T](https://atcoder.jp/contests/dp/tasks/dp_t)
+  - [ ] [U](https://atcoder.jp/contests/dp/tasks/dp_u)
+  - [ ] [V](https://atcoder.jp/contests/dp/tasks/dp_v)
+  - [ ] [W](https://atcoder.jp/contests/dp/tasks/dp_w)
+  - [ ] [X](https://atcoder.jp/contests/dp/tasks/dp_x)
+  - [ ] [Y](https://atcoder.jp/contests/dp/tasks/dp_y)
+  - [ ] [Z](https://atcoder.jp/contests/dp/tasks/dp_z)
 
 - [ ] http://codeforces.com/contest/699/problem/C
 - [ ] http://codeforces.com/contest/545/problem/C
