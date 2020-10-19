@@ -5,8 +5,13 @@
 ## List of problems
 > List of problems in DP topic
 
-- [x] [RGBStreet TopCoder - 6680](https://vjudge.net/problem/TopCoder-6680)
-- [x] [MaximalProduct TopCoder - 8760](https://vjudge.net/problem/TopCoder-8760)
+- [ ] TopCoder 
+  - [x] [RGBStreet TopCoder - 6680](https://vjudge.net/problem/TopCoder-6680)
+  - [x] [MaximalProduct TopCoder - 8760](https://vjudge.net/problem/TopCoder-8760)
+- [ ] CSES
+  - [x] [CSES - Dice Combinations](https://cses.fi/problemset/task/1633)
+  - [x] [CSES - Minimizing Coins](https://cses.fi/problemset/task/1634)
+
 - [ ] http://codeforces.com/contest/699/problem/C
 - [ ] http://codeforces.com/contest/545/problem/C
 - [ ] http://codeforces.com/contest/550/problem/C
@@ -19,7 +24,8 @@
 - [ ] https://vjudge.net/problem/UVA-357
 - [ ] https://codeforces.com/problemset/problem/855/B
 - [ ] http://codeforces.com/contest/225/problem/C
-- [ ] Educational DP Contest
+
+- [ ] AtCoder - Educational DP Contest
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_a
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_b
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_c
