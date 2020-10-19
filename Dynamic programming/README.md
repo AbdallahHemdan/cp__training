@@ -13,7 +13,7 @@
   - [x] [CSES - Minimizing Coins](https://cses.fi/problemset/task/1634)
 
 - [ ] AtCoder - Educational DP Contest
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_a
+  - [x] https://atcoder.jp/contests/dp/tasks/dp_a
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_b
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_c
   - [x] https://atcoder.jp/contests/dp/tasks/dp_d
