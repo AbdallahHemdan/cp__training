@@ -62,6 +62,9 @@
   - [x] ~Dynamic Programming - Introduction - 1~
   - [x] ~Dynamic Programming - Introduction - 2~
   - [ ] Dynamic Programming - Subset Style
+    - [x] LIS
+    - [ ] LCS
+    - [ ] KnapSack
 - [x] 15. ~Intro to Greedy~
 - [x] 16. ~Dijkstra~
 - [x] 17. ~Floyd~
