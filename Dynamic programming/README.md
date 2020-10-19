@@ -6,6 +6,7 @@
 > List of problems in DP topic
 
 - [x] [RGBStreet TopCoder - 6680](https://vjudge.net/problem/TopCoder-6680)
+- [x] [MaximalProduct TopCoder - 8760](https://vjudge.net/problem/TopCoder-8760)
 - [ ] http://codeforces.com/contest/699/problem/C
 - [ ] http://codeforces.com/contest/545/problem/C
 - [ ] http://codeforces.com/contest/550/problem/C
