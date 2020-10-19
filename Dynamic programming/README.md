@@ -16,7 +16,7 @@
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_a
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_b
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_c
-  - [ ] https://atcoder.jp/contests/dp/tasks/dp_d
+  - [x] https://atcoder.jp/contests/dp/tasks/dp_d
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_e
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_f
   - [ ] https://atcoder.jp/contests/dp/tasks/dp_g
