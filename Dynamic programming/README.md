@@ -11,6 +11,7 @@
 - [x] CSES
   - [x] [CSES - Dice Combinations](https://cses.fi/problemset/task/1633)
   - [x] [CSES - Minimizing Coins](https://cses.fi/problemset/task/1634)
+  - [x] [CSES - Grid Paths](https://cses.fi/problemset/task/1638)
 
 - [ ] AtCoder - Educational DP Contest
   - [x] [A](https://atcoder.jp/contests/dp/tasks/dp_a)
