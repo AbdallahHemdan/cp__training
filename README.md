@@ -61,10 +61,10 @@
 - [ ] 14. Dynamic Programming
   - [x] ~Dynamic Programming - Introduction - 1~
   - [x] ~Dynamic Programming - Introduction - 2~
-  - [ ] Dynamic Programming - Subset Style
+  - [x] Dynamic Programming - Subset Style
     - [x] LIS
-    - [ ] LCS
-    - [ ] KnapSack
+    - [x] LCS
+    - [x] KnapSack
 - [x] 15. ~Intro to Greedy~
 - [x] 16. ~Dijkstra~
 - [x] 17. ~Floyd~
@@ -115,6 +115,22 @@
 - [ ] 42. Matrix Power
 - [ ] 43. Ternary search
 
+
+## GYM Next
+
+- [ ] [2013, Samara SAU ACM ICPC Quarterfinal Qualification Contest](https://codeforces.com/gym/100247)
+  - [ ] A
+  - [ ] B
+  - [ ] C
+  - [ ] D
+  - [ ] E
+  - [ ] F
+  - [ ] G
+  - [ ] H
+  - [ ] I
+  - [ ] J
+  - [ ] K
+  - [ ] L
 ## TO UPSOVLE
 #### https://codeforces.com/gym/101498
 - [ ] F
