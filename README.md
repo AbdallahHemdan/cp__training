@@ -119,18 +119,18 @@
 ## GYM Next
 
 - [ ] [2013, Samara SAU ACM ICPC Quarterfinal Qualification Contest](https://codeforces.com/gym/100247)
+  - [ ] D
+  - [ ] H
+  - [ ] C
   - [ ] A
   - [ ] B
-  - [ ] C
-  - [ ] D
-  - [ ] E
-  - [ ] F
-  - [ ] G
-  - [ ] H
   - [ ] I
-  - [ ] J
-  - [ ] K
+  - [ ] F
+  - [ ] I
   - [ ] L
+  - [ ] G
+  - [ ] K
+  - [ ] E
 ## TO UPSOVLE
 #### https://codeforces.com/gym/101498
 - [ ] F
