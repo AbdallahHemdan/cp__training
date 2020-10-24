@@ -1,3 +1,17 @@
+/**
+ * Merge sort: keeps dividing the array into 2 halves till reach lowest level
+ * keep merging the 2 halves till combine them in one sorted array
+ * */
+
+/**
+ * Auxiliary Space: Θ(𝑛)
+ * Complexity: Θ(𝑛log𝑛)
+ * Stable: true
+ * Recurrence relation: T(n) = 2T(n/2) + θ(n)
+ * Approach: Divide and Conquer
+ * Takes linear time to merge the 2 halves
+ * */
+
 void merge(vector<int> &a, int l, int m, int r) {
     int lftSz = m - l + 1;
     int rgtSz = r - m;
