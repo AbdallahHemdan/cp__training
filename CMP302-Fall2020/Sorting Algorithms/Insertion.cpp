@@ -5,7 +5,7 @@
  * */
 
 /**
- * In-Place algorithm: true
+ * Auxiliary Space: O(1)
  * Complexity: O(n^2)
  * Stable: true
  * Approach: Incremental approach
