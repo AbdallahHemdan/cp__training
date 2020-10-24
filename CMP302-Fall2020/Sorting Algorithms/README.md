@@ -6,7 +6,6 @@
 - Best case: Min(T(n))
 - Average case: E(T(n))
 
-
 🚩 **Note:**
 Average case requires knowledge of statistical distribution of inputs (can be biased)
   - Approx. to worst case (when the best case is the exception)
@@ -24,3 +23,6 @@ Average case requires knowledge of statistical distribution of inputs (can be bi
   - [x] Works on _Lower bound_ of function (best case)
   - [x] May be asymptotically tight 2n² = Ω(n²)
   - [x] May not be asymptotically tight 2n³ = Ω(n²)
+
+### Recurrences
+> Simply formulate the time or space complexity of a program as a mathematical function 𝑇(𝑛)
