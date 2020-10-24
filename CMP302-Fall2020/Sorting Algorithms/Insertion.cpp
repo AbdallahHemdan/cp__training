@@ -8,6 +8,7 @@
  * In-Place algorithm: true
  * Complexity: O(n^2)
  * Stable: true
+ * Approach: Incremental approach
  * */
 void InsertionSort(vector<int> &a) {
     int n = a.size();
