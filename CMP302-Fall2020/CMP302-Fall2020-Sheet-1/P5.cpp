@@ -68,7 +68,9 @@ int main() {
         clr[i] = color;
     }
 
+    int ret = INT_MIN;
     for(int i = 1 ; i<=n ; i++){
-        cout << clr[i] << " \n"[i == n];
+        ret = max(ret, clr[i]);
     }
+    cout << ret << endl;
 }
