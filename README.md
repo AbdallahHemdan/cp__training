@@ -61,10 +61,10 @@
 - [ ] 14. Dynamic Programming
   - [x] ~Dynamic Programming - Introduction - 1~
   - [x] ~Dynamic Programming - Introduction - 2~
-  - [x] Dynamic Programming - Subset Style
-    - [x] LIS
-    - [x] LCS
-    - [x] KnapSack
+  - [x] ~Dynamic Programming - Subset Style~
+    - [x] ~LIS~
+    - [x] ~LCS~
+    - [x] ~KnapSack~
 - [x] 15. ~Intro to Greedy~
 - [x] 16. ~Dijkstra~
 - [x] 17. ~Floyd~
@@ -131,6 +131,7 @@
   - [ ] G
   - [ ] K
   - [ ] E
+  
 ## TO UPSOVLE
 #### https://codeforces.com/gym/101498
 - [ ] F
