@@ -58,7 +58,7 @@
       - [ ] Count number of MST in graph
 - [x] 12. ~Binary Search~
 - [x] 13. ~Recursion~
-- [ ] 14. Dynamic Programming
+- [x] 14. ~Dynamic Programming~
   - [x] ~Dynamic Programming - Introduction - 1~
   - [x] ~Dynamic Programming - Introduction - 2~
   - [x] ~Dynamic Programming - Subset Style~
