@@ -90,7 +90,7 @@
   - [x] ~The first element greater than or equal to x in index larger that l~
 - [x] 23. ~Monotonic Stack~
 - [x] 24. ~Monotonic Queue with 2 Monotonic-Stacks~
-- [x] 25. Linear diophantine equation
+- [x] 25. ~Linear diophantine equation~
 - [ ] 26. KMP
 - [ ] 27. Trie
 - [ ] 28. Strongly Connected Components (SCC)
