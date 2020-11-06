@@ -1,4 +1,4 @@
-
+// Getting a solution 
 ll eGCD(ll a, ll b, ll &x, ll &y) {
     if (b == 0) {
         x = 1;
@@ -25,3 +25,11 @@ bool solveLDE(ll a, ll b, ll c, ll &x0, ll &y0, ll &g) {
     if (b < 0) y0 = -y0;
     return true;
 }
+
+
+// Getting all solutions
+/**
+* after getting the first solution, you can get all solutions using Bézout's identity
+* x = x0 + k * (b/g)
+* y = y0 - k * (a/g)
+*/
