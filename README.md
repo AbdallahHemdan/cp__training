@@ -90,8 +90,7 @@
   - [x] ~The first element greater than or equal to x in index larger that l~
 - [x] 23. ~Monotonic Stack~
 - [x] 24. ~Monotonic Queue with 2 Monotonic-Stacks~
-- [ ] 25. SQRT Decomposition
-  - [ ] Mo's Algorithm
+- [x] 25. Linear diophantine equation
 - [ ] 26. KMP
 - [ ] 27. Trie
 - [ ] 28. Strongly Connected Components (SCC)
@@ -114,3 +113,5 @@
 - [ ] 41. SCC (Strongly connected components)
 - [ ] 42. Matrix Power
 - [ ] 43. Ternary search
+- [ ] 44. SQRT Decomposition
+  - [ ] Mo's Algorithm
