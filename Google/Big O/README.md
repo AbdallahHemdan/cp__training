@@ -5,3 +5,4 @@ Running time of algorithms depends on multiple factors
 - Read and Write speed
 - 32bit vs 64bit architecture
 - Configuration of machine
+- Input
