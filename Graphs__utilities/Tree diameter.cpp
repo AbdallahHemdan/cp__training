@@ -1,3 +1,7 @@
+/*
+* Tree centers: are the nodes in the tree that minimize the length of the longest path from it to any node
+* Worst nodes: are the nodes have maximum height (tree diameter nodes)
+**/
 const int N = 1e4 + 14;
 ll dist[N];
 vll adj[N];
