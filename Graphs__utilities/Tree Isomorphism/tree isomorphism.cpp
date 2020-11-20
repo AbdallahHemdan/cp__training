@@ -33,6 +33,8 @@
  * Verified:
  * 1. https://csacademy.com/contest/round-73/task/binary-isomorphism/
  * 2. https://www.spoj.com/problems/TREEISO/
+ * 3. https://cses.fi/problemset/task/1700/
+ * 4. https://cses.fi/problemset/task/1701
  *
  * Notes:
  * If your trees are already rooted call isomorphic(tree S, int s, tree T, int t)
