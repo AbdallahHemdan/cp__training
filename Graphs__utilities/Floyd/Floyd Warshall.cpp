@@ -9,6 +9,7 @@ using namespace std;
 
 const int N = 101;
 const int OO = 1e9;
+const double EPS = 1e-9;
 
 int n, m;              // The number of nodes/edges.
 int adj[N][N];      // The graph adjacency matrix.
@@ -50,6 +51,28 @@ void floyd() {
 }
 
 /**
+ * The case of real weights
+ * If the weights of the edges are not integer but real, 
+ * it is necessary to take the errors, which occur when working with float types
+ * 
+ * To avoid this the algorithm can be modified to take the error (EPS = δ) into account by using following comparison: 
+ * 
+*/
+
+void floydReal() {
+  for (int k = 0; k < n; ++k) {
+    for (int i = 0; i < n; ++i) {
+      for (int j = 0; j < n; ++j) {
+        if (adj[i][k] + adj[k][j] < adj[i][j] - EPS) {
+          adj[i][j] = adj[i][k] + adj[k][j];
+          par[i][j] = par[k][j];
+        }
+      }
+    }
+  }
+}
+
+/**
  * assume that we only care if a their is a path or not, not caring about shortest path
  * so the graph has one 2 value
  *
@@ -61,7 +84,7 @@ void TransitiveClosure() {
   for (int k = 0; k < n; ++k) {
     for (int i = 0; i < n; ++i) {
       for (int j = 0; j < n; ++j) {
-        adj[i][j] |= (adj[i][k] && adj[k][j]);
+        adj[i][j] |= (adj[i][k] & adj[k][j]);
       }
     }
   }
@@ -70,7 +93,7 @@ void TransitiveClosure() {
 /**
  * find the path such that max value on road is minimum
  **/
-void minmax() {
+void minimax() {
   for (int k = 0; k < n; ++k) {
     for (int i = 0; i < n; ++i) {
       for (int j = 0; j < n; ++j) {
@@ -83,7 +106,7 @@ void minmax() {
 /**
  * find path such that min value on road is maximum
  **/
-void maxmin() {
+void maximin() {
   for (int k = 0; k < n; ++k) {
     for (int i = 0; i < n; ++i) {
       for (int j = 0; j < n; ++j) {
