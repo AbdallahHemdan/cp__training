@@ -26,6 +26,41 @@
 ## Topics 
 > List of basic topics I covered in training
 
+- [Graphs](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities)
+  - [x] DFS
+    - [x] Standard DFS
+    - [x] Detect cycle in directed graph
+    - [x] Detect cycle in undirected graph
+    - [x] Count number of connected components
+    - [x] Topological Sort
+    - [x] Bipartite graph check
+    - [x] Flood-Fill with dfs
+    - [x] Check if a vertex in a tree is an ancestor of some other vertex
+  - [x] BFS
+    - [x] Standard BFS
+    - [x] Topological sort (Khan's Algorithm)
+    - [x] Is Edge on shortest path from src to destination
+    - [x] Is Vertex on shortest path from src to destination
+  - [x] 0-1 BFS
+    - [x] 0-1 BFS
+  - [x] Tree diameter & Tree Isomorphism
+    - [x] Tree diameter
+    - [x] Tree Isomorphism
+  - [x] Floyd Warshall
+    - [x] Basic floyd
+    - [x] Floyd with real weights
+    - [x] Transitive Closure
+    - [x] Minimax
+    - [x] Maximin
+    - [x] Count Paths
+    - [x] Check Negative Cycle
+    - [x] Longest Path DAG
+    - [x] Graph Diameter
+  - [x] Lowest Common Ancestor
+    - [x] LCA with dist and log-parents
+    - [x] Distance between 2 nodes in tree
+  - [x] Tree Re-rooting
+
 - [x] 1. ~Adhocs~
 - [x] 2. ~Elemenatry Math~
 - [x] 3. ~Modular Arithmetic~
@@ -33,14 +68,6 @@
   - [x] ~Product Rule~
   - [x] ~Sum Rule~
   - [x] ~Inclusion-Exclusion-Prinicple~
-- [x] 5. ~DFS~
-  - [x] ~Connected components~
-  - [x] ~Topological sort~
-  - [x] ~DFS with Flood-Fill~
-  - [x] ~DFS with Bipartite Graph~
-- [x] 6. ~BFS~
-  - [x] ~Standard BFS~
-  - [x] ~BFS topological sort (Khan's Algorithm)~
 - [x] 7. ~Measure algorithm performance~
 - [x] 8. ~PowerSet (generate all subsets of set S)~
 - [x] 9. ~Prefix sum (cumulative sum)~
@@ -67,18 +94,9 @@
     - [x] ~KnapSack~
 - [x] 15. ~Intro to Greedy~
 - [x] 16. ~Dijkstra~
-- [x] 17. ~Floyd~
-  - [x] ~TransitiveClosure~
-  - [x] ~minmax~
-  - [x] ~maxmin~
-  - [x] ~countPaths~
-  - [x] ~checkNegativeCycle~
-  - [x] ~longestPathDAG~
-  - [x] ~graphDiameter~
 - [x] 18. ~Bellman Ford~
   - [x] ~Detect and find (-ve) cycle~
   - [x] ~Detect and find (+ve) cycle~
-- [x] 19. ~Tree diameter using BFS~
 - [x] 20. ~Binary Indexed Tree (Fenwick)~
 - [x] 21. ~Range Sum Query 2D~
 - [x] 22. ~Segment Tree~
@@ -96,8 +114,7 @@
 - [ ] 28. Strongly Connected Components (SCC)
   - [ ] Kosaraju's Algorithm
 - [ ] 29. Sparse table for RMQ
-- [ ] 30. Lowest Common Ancestor (LCA)
-  - [ ] Lowest Common Ancestor - Binary Lifting
+- [ ] Lowest Common Ancestor - Binary Lifting
 - [ ] 31. Max Flow
   - [ ] Edmonds-Karp's Algorithm
   - [ ] Dinic
@@ -107,10 +124,8 @@
 - [ ] 35. Number Theory - Factorization
 - [ ] 36. Combinatorics(Permutations - Combinations)
 - [ ] 37. Number Theory(Fib - GCD - LCM - Pow)
-- [ ] 38. 0-1 BFS
 - [ ] 39. Max Clique
 - [ ] 40. Prims's Algorithm
-- [ ] 41. SCC (Strongly connected components)
 - [ ] 42. Matrix Power
 - [ ] 43. Ternary search
 - [ ] 44. SQRT Decomposition
