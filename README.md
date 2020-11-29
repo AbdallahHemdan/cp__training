@@ -27,7 +27,7 @@
 > List of basic topics I covered in training
 
 - [Graphs](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities)
-  - [x] DFS
+  - [x] [DFS](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/DFS)
     - [x] Standard DFS
     - [x] Detect cycle in directed graph
     - [x] Detect cycle in undirected graph
@@ -36,17 +36,17 @@
     - [x] Bipartite graph check
     - [x] Flood-Fill with dfs
     - [x] Check if a vertex in a tree is an ancestor of some other vertex
-  - [x] BFS
+  - [x] [BFS](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/BFS)
     - [x] Standard BFS
     - [x] Topological sort (Khan's Algorithm)
     - [x] Is Edge on shortest path from src to destination
     - [x] Is Vertex on shortest path from src to destination
-  - [x] 0-1 BFS
+  - [x] [0-1 BFS](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/0-1%20BFS)
     - [x] 0-1 BFS
-  - [x] Tree diameter & Tree Isomorphism
+  - [x] [Tree diameter](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Tree%20diameter) & [Tree Isomorphism](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Tree%20Isomorphism)
     - [x] Tree diameter
     - [x] Tree Isomorphism
-  - [x] Floyd Warshall
+  - [x] [Floyd Warshall](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Floyd)
     - [x] Basic floyd
     - [x] Floyd with real weights
     - [x] Transitive Closure
@@ -56,7 +56,7 @@
     - [x] Check Negative Cycle
     - [x] Longest Path DAG
     - [x] Graph Diameter
-  - [x] Lowest Common Ancestor
+  - [x] [Lowest Common Ancestor](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/LCA)
     - [x] LCA with dist and log-parents
     - [x] Distance between 2 nodes in tree
   - [x] Tree Re-rooting
