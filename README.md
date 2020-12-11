@@ -27,7 +27,7 @@
 > List of basic topics I covered in training
 
 - [Graphs](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities)
-  - [x] DFS
+  - [x] [DFS](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/DFS)
     - [x] Standard DFS
     - [x] Detect cycle in directed graph
     - [x] Detect cycle in undirected graph
@@ -36,17 +36,17 @@
     - [x] Bipartite graph check
     - [x] Flood-Fill with dfs
     - [x] Check if a vertex in a tree is an ancestor of some other vertex
-  - [x] BFS
+  - [x] [BFS](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/BFS)
     - [x] Standard BFS
     - [x] Topological sort (Khan's Algorithm)
     - [x] Is Edge on shortest path from src to destination
     - [x] Is Vertex on shortest path from src to destination
-  - [x] 0-1 BFS
+  - [x] [0-1 BFS](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/0-1%20BFS)
     - [x] 0-1 BFS
-  - [x] Tree diameter & Tree Isomorphism
+  - [x] [Tree diameter](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Tree%20diameter) & [Tree Isomorphism](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Tree%20Isomorphism)
     - [x] Tree diameter
     - [x] Tree Isomorphism
-  - [x] Floyd Warshall
+  - [x] [Floyd Warshall](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Floyd)
     - [x] Basic floyd
     - [x] Floyd with real weights
     - [x] Transitive Closure
@@ -56,10 +56,13 @@
     - [x] Check Negative Cycle
     - [x] Longest Path DAG
     - [x] Graph Diameter
-  - [x] Lowest Common Ancestor
+  - [x] [Lowest Common Ancestor](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/LCA)
     - [x] LCA with dist and log-parents
     - [x] Distance between 2 nodes in tree
   - [x] Tree Re-rooting
+
+<hr />
+
 
 - [x] 1. ~Adhocs~
 - [x] 2. ~Elemenatry Math~
@@ -72,17 +75,6 @@
 - [x] 8. ~PowerSet (generate all subsets of set S)~
 - [x] 9. ~Prefix sum (cumulative sum)~
 - [x] 10. ~Computational geometry (point & vector)~
-- [x] 11. ~Kruskal~
-  - [x] ~Main Idea + Code~
-  - [x] ~Applications~
-      - [x] ~2nd MST~
-      - [x] ~Partial MST~
-      - [x] ~MiniMax using Kruskal~
-        - [x] ~MiniMax for the whole Graph~
-        - [x] ~MiniMax between 2-nodes~
-      - [x] ~Dynamic Connectivity (find connected commponents dynamically)~
-      - [ ] Count number of Spanning-Trees (Kirchhoff's Theorem : works on unweighted graph)
-      - [ ] Count number of MST in graph
 - [x] 12. ~Binary Search~
 - [x] 13. ~Recursion~
 - [x] 14. ~Dynamic Programming~
@@ -93,10 +85,7 @@
     - [x] ~LCS~
     - [x] ~KnapSack~
 - [x] 15. ~Intro to Greedy~
-- [x] 16. ~Dijkstra~
-- [x] 18. ~Bellman Ford~
-  - [x] ~Detect and find (-ve) cycle~
-  - [x] ~Detect and find (+ve) cycle~
+
 - [x] 20. ~Binary Indexed Tree (Fenwick)~
 - [x] 21. ~Range Sum Query 2D~
 - [x] 22. ~Segment Tree~
@@ -111,22 +100,42 @@
 - [x] 25. ~Linear diophantine equation~
 - [ ] 26. KMP
 - [ ] 27. Trie
-- [ ] 28. Strongly Connected Components (SCC)
-  - [ ] Kosaraju's Algorithm
+
 - [ ] 29. Sparse table for RMQ
-- [ ] Lowest Common Ancestor - Binary Lifting
-- [ ] 31. Max Flow
-  - [ ] Edmonds-Karp's Algorithm
-  - [ ] Dinic
 - [ ] 32. Manacher’s Algorithm
 - [ ] 33. Line sweep
 - [ ] 34. Number Theory - Primes
 - [ ] 35. Number Theory - Factorization
 - [ ] 36. Combinatorics(Permutations - Combinations)
 - [ ] 37. Number Theory(Fib - GCD - LCM - Pow)
-- [ ] 39. Max Clique
 - [ ] 40. Prims's Algorithm
 - [ ] 42. Matrix Power
 - [ ] 43. Ternary search
 - [ ] 44. SQRT Decomposition
   - [ ] Mo's Algorithm
+  
+  
+  <hr />
+  
+- [x] 16. ~Dijkstra~
+- [x] 18. ~Bellman Ford~
+  - [x] ~Detect and find (-ve) cycle~
+  - [x] ~Detect and find (+ve) cycle~
+- [ ] 28. Strongly Connected Components (SCC)
+  - [ ] Kosaraju's Algorithm
+- [ ] Lowest Common Ancestor - Binary Lifting
+- [ ] 31. Max Flow
+  - [ ] Edmonds-Karp's Algorithm
+  - [ ] Dinic
+- [ ] 39. Max Clique
+- [x] 11. ~Kruskal~
+  - [x] ~Main Idea + Code~
+  - [x] ~Applications~
+      - [x] ~2nd MST~
+      - [x] ~Partial MST~
+      - [x] ~MiniMax using Kruskal~
+        - [x] ~MiniMax for the whole Graph~
+        - [x] ~MiniMax between 2-nodes~
+      - [x] ~Dynamic Connectivity (find connected commponents dynamically)~
+      - [ ] Count number of Spanning-Trees (Kirchhoff's Theorem : works on unweighted graph)
+      - [ ] Count number of MST in graph
