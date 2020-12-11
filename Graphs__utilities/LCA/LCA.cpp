@@ -70,7 +70,7 @@ int getLCA(int u, int v) {
 
   for (int i = LOG_N, j = (1 << i); j > 0; --i, j = (1 << i)) {
     if (dist[u] < j) continue; // step larger than my distance
-    if (par[u][i] == par[v][i]) continue; // try to get better one
+    if (par[u][i] == par[v][i]) continue; // try to get better common ancestor
 
     u = par[u][i];
     v = par[v][i];
