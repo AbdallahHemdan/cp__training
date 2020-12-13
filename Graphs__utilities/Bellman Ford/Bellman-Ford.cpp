@@ -22,6 +22,9 @@ vector<edge> adj;
 /**
  * Verified:
  * 1. https://cses.fi/problemset/task/1197/
+ * 
+ * Note:
+ * 1. to detect +ve cycle using Bellman-Ford, you can multiple the graph by -1 and detect -ve cycle using standard bellman
  **/
 int bellman(int u) {
   memset(par, -1, sizeof(par));
