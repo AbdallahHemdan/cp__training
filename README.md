@@ -60,6 +60,7 @@
     - [x] LCA with dist and log-parents
     - [x] Distance between 2 nodes in tree
   - [x] [Tree Re-rooting]()
+    - [x] Tree Re-rooting
   - [x] [Dijkstra](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Dijkstra)
     - [x] Finding shortest paths from given vertex
     - [x] Dijkstra on sparse graphs
