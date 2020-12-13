@@ -87,6 +87,7 @@ int main() {
    * Checks:
    * 1. Check for Overflow and update dist, priority_queue.
    * 2. Check for condition if the path is not exists.
+   * 3. Check OO value if you need to change it
    **/
   dijsktra(1); // We assuming that 1 is the src node
 

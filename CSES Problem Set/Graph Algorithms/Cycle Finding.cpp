@@ -50,13 +50,16 @@ vector<Edge> edges;
 void bellman() {
     for (int i = 0; i < n; ++i) {
         x = -1;
+        bool any = true;
         for (Edge e : edges) {
             if (dist[e.a] + e.cost < dist[e.b]) {
                 dist[e.b] = dist[e.a] + e.cost;
                 part[e.b] = e.a;
                 x = e.b;
+                any = false;
             }
         }
+        if(any) break; // no useful work to do
     }
 }
 
