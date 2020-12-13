@@ -60,7 +60,13 @@
     - [x] LCA with dist and log-parents
     - [x] Distance between 2 nodes in tree
   - [x] Tree Re-rooting
-
+  - [x] Dijkstra
+    - [x] Finding shortest paths from given vertex
+    - [x] Dijkstra on sparse graphs
+  - [x] Bellman-Ford
+    - [x] Bellman-Ford for SSSP with negative weights
+    - [x] Detect -ve/+ve cycle
+    - [x] Get -ve/+ve cycle
 <hr />
 
 
@@ -117,13 +123,8 @@
   
   <hr />
   
-- [x] 16. ~Dijkstra~
-- [x] 18. ~Bellman Ford~
-  - [x] ~Detect and find (-ve) cycle~
-  - [x] ~Detect and find (+ve) cycle~
 - [ ] 28. Strongly Connected Components (SCC)
   - [ ] Kosaraju's Algorithm
-- [ ] Lowest Common Ancestor - Binary Lifting
 - [ ] 31. Max Flow
   - [ ] Edmonds-Karp's Algorithm
   - [ ] Dinic
