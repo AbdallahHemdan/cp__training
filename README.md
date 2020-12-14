@@ -59,11 +59,12 @@
   - [x] [Lowest Common Ancestor](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/LCA)
     - [x] LCA with dist and log-parents
     - [x] Distance between 2 nodes in tree
-  - [x] Tree Re-rooting
-  - [x] Dijkstra
+  - [x] [Tree Re-rooting]()
+    - [x] Tree Re-rooting
+  - [x] [Dijkstra](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Dijkstra)
     - [x] Finding shortest paths from given vertex
     - [x] Dijkstra on sparse graphs
-  - [x] Bellman-Ford
+  - [x] [Bellman-Ford](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Bellman%20Ford)
     - [x] Bellman-Ford for SSSP with negative weights
     - [x] Detect -ve/+ve cycle
     - [x] Get -ve/+ve cycle
