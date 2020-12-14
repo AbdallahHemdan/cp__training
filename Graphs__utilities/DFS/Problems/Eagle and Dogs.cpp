@@ -58,7 +58,7 @@ void dfs(int u, int p = -1) {
 void solve(int u, int p = -1) {
   for (auto v : adj[u]) {
     if (v.first == p) continue;
-    if (v.second + mx[v.first][0] == mx[u][0]) { // is current branch my 1st mx
+    if (v.second + mx[v.first][0] == mx[u][0]) { // this current branch is the branch which get the 1st mx to u(root)
       mx[v.first][2] = mx[u][1] + v.second;
     } else {
       mx[v.first][2] = mx[u][0] + v.second;
