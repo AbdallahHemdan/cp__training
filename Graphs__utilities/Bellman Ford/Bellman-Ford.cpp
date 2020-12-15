@@ -25,6 +25,7 @@ vector<edge> adj;
  * 
  * Note:
  * 1. to detect +ve cycle using Bellman-Ford, you can multiple the graph by -1 and detect -ve cycle using standard bellman
+ * 2. to get SSLP (Single Source Longest Path), multiple all edges by (-1) and get SSSP (Single Source Shortest Path) using Bellman
  **/
 int bellman(int u) {
   memset(par, -1, sizeof(par));
