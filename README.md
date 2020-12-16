@@ -26,7 +26,7 @@
 ## Topics 
 > List of basic topics I covered in training
 
-- [Graphs](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities)
+## [Graphs](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities)
   - [x] [DFS](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/DFS)
     - [x] Standard DFS
     - [x] Detect cycle in directed graph
@@ -68,6 +68,11 @@
     - [x] Bellman-Ford for SSSP with negative weights
     - [x] Detect -ve/+ve cycle
     - [x] Get -ve/+ve cycle
+
+## [Strings](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing)
+  - [x] [Trie (prefix tree)](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing/Trie)
+    - [x] Implemented with static memory allocation
+
 <hr />
 
 
