@@ -2,7 +2,7 @@
 > Directed graphs in which every vertex has exactly one outgoing edge.
 
 ## Note
-You will find more in the PDF attached here.
+You will find more in the [PDF attached here](https://drive.google.com/file/d/1XYg0pOeQsv8fd9G4AGd3EGhzEV-mq1qZ/view?usp=sharing).
 
 ## Resources
 1. https://usaco.guide/silver/func-graphs#solution
