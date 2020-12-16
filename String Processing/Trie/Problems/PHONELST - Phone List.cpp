@@ -7,7 +7,7 @@
 using namespace std;
 using ll = long long int;
 
-const int ALPHA = 128;
+const int ALPHA = 10;
 const int N = 1e5 + 15;
 
 string s;
@@ -59,7 +59,7 @@ bool insert(const char *str) {
 
   for (int i = 0; str[i]; ++i) {
     wordsCount[cur]++;
-    cur = addEdge(cur, str[i]);
+    cur = addEdge(cur, char(str[i] - '0'));
 
     if (wordsEndCount[cur]) {
       return true;
@@ -101,4 +101,4 @@ int main() {
     if (hasPrefix) cout << "NO" << endl;
     else cout << "YES" << endl;
   }
-}
+} 
