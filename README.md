@@ -111,7 +111,6 @@
 - [x] 24. ~Monotonic Queue with 2 Monotonic-Stacks~
 - [x] 25. ~Linear diophantine equation~
 - [ ] 26. KMP
-- [ ] 27. Trie
 
 - [ ] 29. Sparse table for RMQ
 - [ ] 32. Manacher’s Algorithm
