@@ -28,4 +28,5 @@ You will find more in the [PDF attached here](https://drive.google.com/file/d/1X
 2. https://codeforces.com/contest/1020/problem/B
 3. http://www.usaco.org/index.php?page=viewproblem2&cpid=764
 4. https://cses.fi/problemset/task/1751
-5. http://www.usaco.org/index.php?page=viewproblem2&cpid=1014
+5. https://cses.fi/problemset/task/1160
+6. http://www.usaco.org/index.php?page=viewproblem2&cpid=1014
