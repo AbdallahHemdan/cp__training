@@ -69,6 +69,11 @@
     - [x] Detect -ve/+ve cycle
     - [x] Get -ve/+ve cycle
 
+  - [x] [Successor (Functional) Graph](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Successor%20graphs)
+    - [x] Successor Graph
+    - [x] node after k steps from x
+
+
 ## [Strings](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing)
   - [x] [Trie (prefix tree)](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing/Trie)
     - [x] Implemented with static memory allocation
