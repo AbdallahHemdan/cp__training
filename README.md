@@ -68,6 +68,7 @@
     - [x] Bellman-Ford for SSSP with negative weights
     - [x] Detect -ve/+ve cycle
     - [x] Get -ve/+ve cycle
+    - [x] Solving a system of difference constriants
 
   - [x] [Successor (Functional) Graph](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Successor%20graphs)
     - [x] Successor Graph
