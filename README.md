@@ -78,6 +78,20 @@
     - [x] SPFA for negative cycle detection
     - [x] SPFA for Shortest path with negative weights
   
+  - [x] [Minimum Spanning Tree (Kruskal's Algorithm)](https://github.com/AbdallahHemdan/cp__training/blob/master/Graphs__utilities/Kruskal/Kruskal.cpp)
+    - [x] Disjoint Sets Union
+    - [x] Kruskal's Algorithm
+    - [ ] The bipartition test
+    - [ ] 2nd MST
+    - [ ] Partial MST
+    - [ ] MiniMax using Kruskal
+      - [ ] MiniMax for the whole Graph
+      - [ ] MiniMax between 2-nodes
+    - [ ] Kirchhoff's theorem (Finding the number of spanning trees)
+    - [ ] Dynamic connectivity (Deleting from a data structure in O(T(n)logn))
+      - [ ] DSU with RollBacks
+
+
 ## [Strings](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing)
   - [x] [Trie (prefix tree)](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing/Trie)
     - [x] Implemented with static memory allocation
@@ -143,14 +157,3 @@
   - [ ] Edmonds-Karp's Algorithm
   - [ ] Dinic
 - [ ] 39. Max Clique
-- [x] 11. ~Kruskal~
-  - [x] ~Main Idea + Code~
-  - [x] ~Applications~
-      - [x] ~2nd MST~
-      - [x] ~Partial MST~
-      - [x] ~MiniMax using Kruskal~
-        - [x] ~MiniMax for the whole Graph~
-        - [x] ~MiniMax between 2-nodes~
-      - [x] ~Dynamic Connectivity (find connected commponents dynamically)~
-      - [ ] Count number of Spanning-Trees (Kirchhoff's Theorem : works on unweighted graph)
-      - [ ] Count number of MST in graph
