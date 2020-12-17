@@ -72,8 +72,11 @@
   - [x] [Successor (Functional) Graph](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Successor%20graphs)
     - [x] Successor Graph
     - [x] node after k steps from x
-
-
+  
+  - [x] [Shortest Path Faster Algorithm (SPFA)](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/Shortest%20Path%20Faster%20Algorithm%20(SPFA))
+    - [x] SPFA for negative cycle detection
+    - [x] SPFA for Shortest path with negative weights
+  
 ## [Strings](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing)
   - [x] [Trie (prefix tree)](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing/Trie)
     - [x] Implemented with static memory allocation
