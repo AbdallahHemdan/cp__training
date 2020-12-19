@@ -31,7 +31,7 @@
     - [x] Standard DFS
     - [x] Detect cycle in directed graph
     - [x] Detect cycle in undirected graph
-    - [x] Count number of connected components
+    - [x] Count/Get connected components
     - [x] Topological Sort
     - [x] Bipartite graph check
     - [x] Flood-Fill with dfs
