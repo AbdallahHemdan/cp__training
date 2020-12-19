@@ -153,7 +153,18 @@
   
 - [ ] 28. Strongly Connected Components (SCC)
   - [ ] Kosaraju's Algorithm
+  - [ ] Tarjan 
 - [ ] 31. Max Flow
   - [ ] Edmonds-Karp's Algorithm
   - [ ] Dinic
 - [ ] 39. Max Clique
+- [ ] Bridges using Tarjan
+- [ ] Articulation points using Tarjan
+- [ ] 2 Satisfiability
+- [ ] Maximum Bipartite Matching
+- [ ] Min Cost Max Flow
+- [ ] Heavy-light decomposition
+- [ ] Prim Algorithm
+
+- [ ] Euler Tour
+          
