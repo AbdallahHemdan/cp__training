@@ -96,6 +96,12 @@
   - [x] [Trie (prefix tree)](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing/Trie)
     - [x] Implemented with static memory allocation
 
+## [Searching]()
+  - [ ] [Binary Search]()
+    - [ ] Binary Search basic
+  - [ ] [Ternary Search]()
+    - [ ] Ternary Search basic
+  
 <hr />
 
 
@@ -110,7 +116,6 @@
 - [x] 8. ~PowerSet (generate all subsets of set S)~
 - [x] 9. ~Prefix sum (cumulative sum)~
 - [x] 10. ~Computational geometry (point & vector)~
-- [x] 12. ~Binary Search~
 - [x] 13. ~Recursion~
 - [x] 14. ~Dynamic Programming~
   - [x] ~Dynamic Programming - Introduction - 1~
@@ -144,7 +149,6 @@
 - [ ] 37. Number Theory(Fib - GCD - LCM - Pow)
 - [ ] 40. Prims's Algorithm
 - [ ] 42. Matrix Power
-- [ ] 43. Ternary search
 - [ ] 44. SQRT Decomposition
   - [ ] Mo's Algorithm
   
