@@ -102,10 +102,12 @@
   - [ ] [Ternary Search]()
     - [ ] Ternary Search basic
 
-## [Dynamic Programming]()
+## [Dynamic programming]()
   - [ ] Basic concepts
     - [x] Introduction - 1
-    - [ ] Introduction - 2
+    - [x] Introduction - 2
+    - [x] Subset Style
+    
 <hr />
 
 
@@ -121,15 +123,7 @@
 - [x] 9. ~Prefix sum (cumulative sum)~
 - [x] 10. ~Computational geometry (point & vector)~
 - [x] 13. ~Recursion~
-- [x] 14. ~Dynamic Programming~
-  - [x] ~Dynamic Programming - Introduction - 1~
-  - [x] ~Dynamic Programming - Introduction - 2~
-  - [x] ~Dynamic Programming - Subset Style~
-    - [x] ~LIS~
-    - [x] ~LCS~
-    - [x] ~KnapSack~
 - [x] 15. ~Intro to Greedy~
-
 - [x] 20. ~Binary Indexed Tree (Fenwick)~
 - [x] 21. ~Range Sum Query 2D~
 - [x] 22. ~Segment Tree~
