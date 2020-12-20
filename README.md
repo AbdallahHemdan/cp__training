@@ -95,7 +95,8 @@
 ## [Strings](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing)
   - [x] [Trie (prefix tree)](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing/Trie)
     - [x] Implemented with static memory allocation
-
+  - [x] [KMP (Knuth–Morris–Pratt)](https://github.com/AbdallahHemdan/cp__training/blob/master/String%20Processing/KMP/KMP.cpp)
+    - [x] KMP basic
 ## [Searching]()
   - [ ] [Binary Search]()
     - [ ] Binary Search basic
@@ -136,7 +137,6 @@
 - [x] 23. ~Monotonic Stack~
 - [x] 24. ~Monotonic Queue with 2 Monotonic-Stacks~
 - [x] 25. ~Linear diophantine equation~
-- [ ] 26. KMP
 
 - [ ] 29. Sparse table for RMQ
 - [ ] 32. Manacher’s Algorithm
