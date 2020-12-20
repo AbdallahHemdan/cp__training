@@ -101,7 +101,11 @@
     - [ ] Binary Search basic
   - [ ] [Ternary Search]()
     - [ ] Ternary Search basic
-  
+
+## [Dynamic Programming]()
+  - [ ] Basic concepts
+    - [x] Introduction - 1
+    - [ ] Introduction - 2
 <hr />
 
 
