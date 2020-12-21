@@ -99,6 +99,10 @@
     - [x] KMP basic
     - [x] longest Prefix/Suffix Palindrome
     - [ ] KMP + DP
+
+## [Data Structures]()
+  - [ ] [Sparse Table]()
+  
 ## [Searching]()
   - [ ] [Binary Search]()
     - [ ] Binary Search basic
@@ -115,7 +119,6 @@
 <hr />
 
 - data structures
-  - Sparse Table
   - Binary Indexed Tree (Fenwick)  
   - Segment Tree
     - Segment tree basic idea
