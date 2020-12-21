@@ -97,6 +97,7 @@
     - [x] Implemented with static memory allocation
   - [x] [KMP (Knuth–Morris–Pratt)](https://github.com/AbdallahHemdan/cp__training/blob/master/String%20Processing/KMP/KMP.cpp)
     - [x] KMP basic
+    - [x] longest Prefix/Suffix Palindrome
     - [ ] KMP + DP
 ## [Searching]()
   - [ ] [Binary Search]()
