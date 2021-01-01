@@ -147,12 +147,16 @@
     - [x] Subset Style
 
 ## [Math]()
+  - [ ] [Fast Power]()
   - [ ] [Elementary Math]()
+  - [ ] [Modular Inverse]()
+  - [ ] [Pascal Triangle]()
+  - [ ] [Check Integer Primality using Miller Rabin]()
   - [ ] [Number Theory - Modular Arithmetic]()
   - [ ] [Number Theory - Primes]()
   - [ ] [Number Theory - Factorization]()
   - [ ] [Number Theory - Factorial]()
-  - [ ] [Number Theory - Misc: Fib, GCD, LCM, Pow]()
+  - [ ] [Number Theory - Misc: Fib, GCD, LCM]()
   - [ ] [Number Theory - Extended Euclidean algorithm]()
   - [ ] [Number Theory - Diophantine equation and Congruence]()
   - [ ] [Number Theory - Totient and Möbius Functions]()
@@ -179,7 +183,4 @@
 ## [Others]()
   - [ ] [PowerSet (generate all subsets of set S)]()
   - [ ] [Range Sum Query 2D]()
-
-    
-
 
