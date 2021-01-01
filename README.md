@@ -115,7 +115,14 @@
     - [x] KMP basic
     - [x] longest Prefix/Suffix Palindrome
     - [ ] KMP + DP
-
+  - [ ] [String Hashing]()
+  - [ ] [Z-Algorithm]()
+  - [ ] [Aho-Corasick]()
+  - [ ] [Suffix Arrays]()
+  - [ ] [Suffix Tree]()
+  - [ ] [Suffix Automaton]()
+  - [ ] [Manacher's Algorithm - Finding all sub-palindromes in O(N)]()
+  
 ## [Data Structures]()
   - [ ] [Sparse Table]()
   - [ ] [Binary Indexed Tree (BIT)]()
@@ -134,35 +141,45 @@
     - [ ] Ternary Search basic
 
 ## [Dynamic programming]()
-  - [ ] Basic concepts
+  - [ ] [Basic concepts]()
     - [x] Introduction - 1
     - [x] Introduction - 2
     - [x] Subset Style
 
+## [Math]()
+  - [ ] [Elementary Math]()
+  - [ ] [Number Theory - Modular Arithmetic]()
+  - [ ] [Number Theory - Primes]()
+  - [ ] [Number Theory - Factorization]()
+  - [ ] [Number Theory - Factorial]()
+  - [ ] [Number Theory - Misc: Fib, GCD, LCM, Pow]()
+  - [ ] [Number Theory - Extended Euclidean algorithm]()
+  - [ ] [Number Theory - Diophantine equation and Congruence]()
+  - [ ] [Number Theory - Totient and Möbius Functions]()
+  - [ ] [Combinatorics - Permutations and Combinations]()
+  - [ ] [Combinatorics - Counting Principles]()
+    - [ ] Product Rule
+    - [ ] Sum Rule
+    - [ ] Inclusion-Exclusion-Prinicple
+  - [ ] [Algebra - Basic Matrix Operations]()
+  - [ ] [Algebra - Matrix Power Applications]()
+  - [ ] [Algebra - Polynomial Multiplication - Fast Fourier Transform]()
 
-- [x] Others
-  - [x] 1. ~Adhocs~
-  - [x] 2. ~Elemenatry Math~
-  - [x] 3. ~Modular Arithmetic~
-  - [x] 4. ~Counting Principles~
-    - [x] ~Product Rule~
-    - [x] ~Sum Rule~
-    - [x] ~Inclusion-Exclusion-Prinicple~
-  - [x] 7. ~Measure algorithm performance~
-  - [x] 8. ~PowerSet (generate all subsets of set S)~
-  - [x] 9. ~Prefix sum (cumulative sum)~
-  - [x] 10. ~Computational geometry (point & vector)~
-  - [x] 13. ~Recursion~
-  - [x] 15. ~Intro to Greedy~
-  - [x] 21. ~Range Sum Query 2D~
-  - [x] 25. ~Linear diophantine equation~
-  - [ ] 32. Manacher’s Algorithm
-  - [ ] 33. Line sweep
-  - [ ] 34. Number Theory - Primes
-  - [ ] 35. Number Theory - Factorization
-  - [ ] 36. Combinatorics(Permutations - Combinations)
-  - [ ] 37. Number Theory(Fib - GCD - LCM - Pow)
-  - [ ] 40. Prims's Algorithm
-  - [ ] 42. Matrix Power  
+## [Computational Geometry]()
+  - [ ] [Point and Vector]()
+  - [ ] [Convex Hull]()
+  - [ ] [Line Sweep - 1 - Closest Pair]()
+  - [ ] [Line Sweep - 2 - Segments Intersection]()
+  - [ ] [Line Sweep - 3 - Rectangles Union]()
+
+## [Game Theory]()
+  - [ ] [Game of Nim]()
+  - [ ] [Grundy Theorem]()
+  
+## [Others]()
+  - [ ] PowerSet (generate all subsets of set S)
+  - [ ] [Range Sum Query 2D]()
+
+    
 
 
