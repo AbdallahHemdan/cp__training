@@ -90,6 +90,22 @@
     - [ ] Kirchhoff's theorem (Finding the number of spanning trees)
     - [ ] Dynamic connectivity (Deleting from a data structure in O(T(n)logn))
       - [ ] DSU with RollBacks
+  - [ ] [Strongly Connected Components (SCC)]()
+    - [ ] [Kosaraju's Algorithm]()
+    - [ ] [Tarjan]()
+  - [ ] [Max Flow]()
+    - [ ] [Edmonds-Karp's Algorithm]()
+    - [ ] [Dinic]()
+  - [ ] [Max Clique]()
+  - [ ] [Bridges using Tarjan]()
+  - [ ] [Articulation points using Tarjan]()
+  - [ ] [2 Satisfiability]()
+  - [ ] [Maximum Bipartite Matching]()
+  - [ ] [Min Cost Max Flow]()
+  - [ ] [Heavy-light decomposition]()
+  - [ ] [Prim Algorithm]()
+  - [ ] [Euler Tour]()
+
 
 
 ## [Strings](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing)
@@ -102,6 +118,14 @@
 
 ## [Data Structures]()
   - [ ] [Sparse Table]()
+  - [ ] [Binary Indexed Tree (BIT)]()
+  - [ ] [Segment Tree]()
+  - [ ] [Monotonic Stack]()
+  - [ ] [Monotonic Queue with 2 Monotonic-Stacks]()
+  - [ ] [SQRT Decomposition]()
+    - [ ] Mo's Algorithm
+  - [ ] [Treap]()
+  - [ ] [Splay Tree]()
   
 ## [Searching]()
   - [ ] [Binary Search]()
@@ -116,66 +140,29 @@
     - [x] Subset Style
 
 
-<hr />
+- [x] Others
+  - [x] 1. ~Adhocs~
+  - [x] 2. ~Elemenatry Math~
+  - [x] 3. ~Modular Arithmetic~
+  - [x] 4. ~Counting Principles~
+    - [x] ~Product Rule~
+    - [x] ~Sum Rule~
+    - [x] ~Inclusion-Exclusion-Prinicple~
+  - [x] 7. ~Measure algorithm performance~
+  - [x] 8. ~PowerSet (generate all subsets of set S)~
+  - [x] 9. ~Prefix sum (cumulative sum)~
+  - [x] 10. ~Computational geometry (point & vector)~
+  - [x] 13. ~Recursion~
+  - [x] 15. ~Intro to Greedy~
+  - [x] 21. ~Range Sum Query 2D~
+  - [x] 25. ~Linear diophantine equation~
+  - [ ] 32. Manacher’s Algorithm
+  - [ ] 33. Line sweep
+  - [ ] 34. Number Theory - Primes
+  - [ ] 35. Number Theory - Factorization
+  - [ ] 36. Combinatorics(Permutations - Combinations)
+  - [ ] 37. Number Theory(Fib - GCD - LCM - Pow)
+  - [ ] 40. Prims's Algorithm
+  - [ ] 42. Matrix Power  
 
-- data structures
-  - Binary Indexed Tree (Fenwick)  
-  - Segment Tree
-    - Segment tree basic idea
-    - Segment tree Sum, miniumum, ...etc
-    - The segment with the maximum sum
-    - K-th one
-    - The first element greater than or equal to x
-    - The first element greater than or equal to x in index larger that l
-  - Monotonic Stack
-  - Monotonic Queue with 2 Monotonic-Stacks
-  - SQRT Decomposition
-    - Mo's Algorithm
-  - Treap
-  - Splay Tree
-
-<hr />
-
-- [x] 1. ~Adhocs~
-- [x] 2. ~Elemenatry Math~
-- [x] 3. ~Modular Arithmetic~
-- [x] 4. ~Counting Principles~
-  - [x] ~Product Rule~
-  - [x] ~Sum Rule~
-  - [x] ~Inclusion-Exclusion-Prinicple~
-- [x] 7. ~Measure algorithm performance~
-- [x] 8. ~PowerSet (generate all subsets of set S)~
-- [x] 9. ~Prefix sum (cumulative sum)~
-- [x] 10. ~Computational geometry (point & vector)~
-- [x] 13. ~Recursion~
-- [x] 15. ~Intro to Greedy~
-- [x] 21. ~Range Sum Query 2D~
-- [x] 25. ~Linear diophantine equation~
-- [ ] 32. Manacher’s Algorithm
-- [ ] 33. Line sweep
-- [ ] 34. Number Theory - Primes
-- [ ] 35. Number Theory - Factorization
-- [ ] 36. Combinatorics(Permutations - Combinations)
-- [ ] 37. Number Theory(Fib - GCD - LCM - Pow)
-- [ ] 40. Prims's Algorithm
-- [ ] 42. Matrix Power  
-  
-  <hr />
-
-- graphs
-  - Strongly Connected Components (SCC)
-    - Kosaraju's Algorithm
-    - Tarjan 
-  - Max Flow
-    - Edmonds-Karp's Algorithm
-    - Dinic
-  - Max Clique
-  - Bridges using Tarjan
-  - Articulation points using Tarjan
-  - 2 Satisfiability
-  - Maximum Bipartite Matching
-  - Min Cost Max Flow
-  - Heavy-light decomposition
-  - Prim Algorithm
-  - Euler Tour
 
