@@ -141,7 +141,7 @@
     - [ ] Ternary Search basic
 
 ## [Dynamic programming]()
-  - [ ] [Basic concepts]()
+  - [x] [Basic concepts]()
     - [x] Introduction - 1
     - [x] Introduction - 2
     - [x] Subset Style
