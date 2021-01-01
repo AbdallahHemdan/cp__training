@@ -177,7 +177,7 @@
   - [ ] [Grundy Theorem]()
   
 ## [Others]()
-  - [ ] PowerSet (generate all subsets of set S)
+  - [ ] [PowerSet (generate all subsets of set S)]()
   - [ ] [Range Sum Query 2D]()
 
     
