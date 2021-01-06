@@ -22,9 +22,15 @@
 # About
 > All codes I wrote during my journey to back to training again after stopping ...
 
-
-## Topics 
-> List of basic topics I covered in training
+- [Graphs](#graphs)
+- [Strings](#strings)
+- [Data Structures](#data-structures)
+- [Searching](#searching)
+- [Dynamic programming](#dynamic-programming)
+- [Math](#math)
+- [Computational Geometry](#computational-geometry)
+- [Game Theory](#game-theory)
+- [Others](#others)
 
 ## [Graphs](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities)
   - [x] [DFS](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities/DFS)
