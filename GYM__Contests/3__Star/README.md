@@ -1,11 +1,29 @@
 ## 3-Star Contests 🌟🌟🌟
 
 - [ ] [2015 ACM Amman Collegiate Programming Contest](https://codeforces.com/gym/100712)
+  - [x] A
+    - Sorting + operator<
+  - [x] E
+    - Greedy
+  - [x] C
+    - Greedy
+  - [ ] K
+    - Greedy + Implementation
+  - [ ] J
+    - Implementation (maps)
+  - [ ] G
+  - [ ] F
+  - [ ] B
+  - [ ] D
+  - [ ] H
+  - [ ] I
+  - [ ] L
+
+- [ ] [2017 ACM Amman Collegiate Programming Contest](https://codeforces.com/gym/101498)
 - [ ] [2016, Samara University ACM ICPC Quarterfinal Qualification Contest](https://codeforces.com/gym/101149)
 - [ ] [2017 United Kingdom and Ireland Programming Contest (UKIEPC 2017)](https://codeforces.com/gym/101606)
 - [ ] [2017 United Kingdom and Ireland Programming Contest (UKIEPC 2017)](https://codeforces.com/gym/101102)
 - [ ] [2018, XI Samara Regional Intercollegiate Programming Contest](https://codeforces.com/gym/101755)
-- [ ] [2017 ACM Amman Collegiate Programming Contest](https://codeforces.com/gym/101498)
 - [ ] [The fifth Lipetsk collegiate programming contest. Finals. 8-11 form](https://codeforces.com/gym/102599)
 - [ ] [2014, Samara SAU ACM ICPC Quarterfinal Qualification Contest](https://codeforces.com/gym/100488)
 - [ ] [2020, XIII Samara Regional Intercollegiate Programming Contest](https://codeforces.com/gym/102569)
