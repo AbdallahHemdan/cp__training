@@ -4,6 +4,11 @@
  * Now you can find the answer for any pair of vertices (i,j) in O(1):
  * vertex i is an ancestor of vertex j if and only if (entry[i] < entry[j]) and (exit[i] > exit[j]).
  **/
+#include <bits/stdc++.h>
+
+using namespace std;
+const int N = 1e5 + 15;
+using ll = long long int;
 
 int n, t;
 vector<int> adj[N];
