@@ -1,7 +1,15 @@
-/*
-* Tree centers: are the nodes in the tree that minimize the length of the longest path from it to any node
-* Worst nodes: are the nodes have maximum height (tree diameter nodes)
-**/
+/**
+ * * Tree centers: are the nodes in the tree that minimize the length of the longest path from it to any node 
+ * * Worst nodes: are the nodes have maximum height (tree diameter nodes)
+*/
+
+#include <bits/stdc++.h>
+#define	vll	vector<ll>
+
+using namespace std;
+using ll = long long int;
+
+
 const int N = 1e4 + 14;
 ll dist[N];
 vll adj[N];
@@ -36,7 +44,6 @@ ll calculateTreeDiameter(int root) {
 }
 
 int main() {
-	IO;
 #ifndef ONLINE_JUDGE
 	freopen("In.txt", "r", stdin);
 #else
