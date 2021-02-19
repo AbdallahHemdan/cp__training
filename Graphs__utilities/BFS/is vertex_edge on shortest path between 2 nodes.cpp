@@ -79,7 +79,6 @@ bool isEdgeOnPath(int u, int v) {
 }
 
 int main() {
-  IO;
 #ifndef ONLINE_JUDGE
   freopen("In.txt", "r", stdin);
   freopen("Out.txt", "w", stdout);
@@ -96,8 +95,12 @@ int main() {
     adj[v].push_back(u);
   }
 
-  bfs1(1);
-  bfs2(n);
+  int a = 1;
+  int b = n;
+
+  bfs1(a);
+  bfs2(b);
+
   cout << isVertexOnPath(2) << endl;
   cout << isEdgeOnPath(2, 3) << endl;
 }
