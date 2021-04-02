@@ -23,9 +23,9 @@
 > All codes I wrote during my journey to back to training again after stopping ...
 
 - [Graphs](#graphs)
+- [Searching](#searching)
 - [Strings](#strings)
 - [Data Structures](#data-structures)
-- [Searching](#searching)
 - [Dynamic programming](#dynamic-programming)
 - [Math](#math)
 - [Computational Geometry](#computational-geometry)
@@ -124,7 +124,12 @@
 - [ ] [Prim Algorithm]()
 - [ ] [Euler Tour]()
 
-
+  
+## [Searching]()
+- [ ] [Binary Search]()
+  - [ ] Binary Search basic
+- [ ] [Ternary Search]()
+  - [ ] Ternary Search basic
 
 ## [Strings](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing)
 - [x] [Trie (prefix tree)](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing/Trie)
@@ -153,12 +158,6 @@
   - [ ] Mo's Algorithm
 - [ ] [Treap]()
 - [ ] [Splay Tree]()
-  
-## [Searching]()
-- [ ] [Binary Search]()
-  - [ ] Binary Search basic
-- [ ] [Ternary Search]()
-  - [ ] Ternary Search basic
 
 ## [Dynamic programming]()
 - [x] [Basic concepts]()
