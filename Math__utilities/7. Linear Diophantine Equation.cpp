@@ -1,3 +1,8 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+using ll = long long int;
+
 // Getting a solution 
 ll eGCD(ll a, ll b, ll &x, ll &y) {
     if (b == 0) {
@@ -5,6 +10,7 @@ ll eGCD(ll a, ll b, ll &x, ll &y) {
         y = 0;
         return a;
     }
+
     ll x1, y1;
     ll d = eGCD(b, a % b, x1, y1);
     x = y1;
