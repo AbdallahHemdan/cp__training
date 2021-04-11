@@ -126,8 +126,12 @@
 
   
 ## [Searching]()
-- [ ] [Binary Search]()
-  - [ ] Binary Search basic
+- [x] [Binary Search]()
+  - [x] Searching an item in an array
+  - [x] Find closest item in an array
+  - [x] Binary Search on answer
+  - [x] Binary Search on double answer
+
 - [ ] [Ternary Search]()
   - [ ] Ternary Search basic
 
