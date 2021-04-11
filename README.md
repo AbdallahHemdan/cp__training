@@ -31,6 +31,16 @@
 - [Computational Geometry](#computational-geometry)
 - [Game Theory](#game-theory)
 - [Others](#others)
+  
+## [Searching]()
+- [x] [Binary Search]()
+  - [x] Searching an item in an array
+  - [x] Find closest item in an array
+  - [x] Binary Search on answer
+  - [x] Binary Search on double answer
+
+- [ ] [Ternary Search]()
+  - [ ] Ternary Search basic
 
 ## [Graphs](https://github.com/AbdallahHemdan/cp__training/tree/master/Graphs__utilities)
 
@@ -124,16 +134,7 @@
 - [ ] [Prim Algorithm]()
 - [ ] [Euler Tour]()
 
-  
-## [Searching]()
-- [x] [Binary Search]()
-  - [x] Searching an item in an array
-  - [x] Find closest item in an array
-  - [x] Binary Search on answer
-  - [x] Binary Search on double answer
 
-- [ ] [Ternary Search]()
-  - [ ] Ternary Search basic
 
 ## [Strings](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing)
 - [x] [Trie (prefix tree)](https://github.com/AbdallahHemdan/cp__training/tree/master/String%20Processing/Trie)
