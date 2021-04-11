@@ -7,21 +7,20 @@ bool ok(int m) {
 }
 
 /**
- * * Conditions
+ * * 1) Conditions
  * The function must be a monotonic function matching the binary search type
  * (min or max).
  *
+ *
+ * * 2) Trick for value of r
  * In binary search for answer, some times the value of r is not clear
  * So we have a small trick to get a tight value for r
  *
- *
- *
- * * Trick for value of r
  * ll r = 1;
  * while(!ok(r)) r <<= 1;
  *
  *
- * * Binary Search on doubles
+ * * 3) Binary Search on doubles
  * Instead of using while loop with accurrecy of EPS which is sometimes fail
  * You can use fixed number of iterations which is at max 100 iteration
  *
