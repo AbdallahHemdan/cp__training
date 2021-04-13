@@ -33,7 +33,7 @@
 - [Others](#others)
   
 ## [Searching]()
-- [x] [Binary Search]()
+- [x] [Binary Search](https://github.com/AbdallahHemdan/cp__training/blob/master/Searching/binary_search.cpp)
   - [x] Searching an item in an array
   - [x] Find closest item in an array
   - [x] Binary Search on answer
