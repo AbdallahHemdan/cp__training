@@ -1,4 +1,4 @@
-## 🌳 Trees
+# 🌳 Trees
 - The tree cannot contain cycles, and tree with (n)-nodes has (n-1)-edges
 - They may or may not have links back to their parent nodes
 - A very simple class definition for Node is as following:
