@@ -13,10 +13,6 @@
 ## Stack using Linked list
 - The time complexity for all push(), pop(), and peek() operations is O(1)
 
-## Stack using Arrays
-- Pros: Easy to implement. Memory is saved as pointers are not involved. 
-- Cons: It is not dynamic. It doesn’t grow and shrink depending on needs at runtime.
-
 
 ```cpp
 // Stack using linked-list
@@ -98,6 +94,10 @@ int main() {
   return 0;
 }
 ```
+
+## Stack using Arrays
+- Pros: Easy to implement. Memory is saved as pointers are not involved. 
+- Cons: It is not dynamic. It doesn’t grow and shrink depending on needs at runtime.
 
 ```cpp
 // Stack using arrays
