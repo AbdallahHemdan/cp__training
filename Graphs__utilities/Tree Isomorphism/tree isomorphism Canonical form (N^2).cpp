@@ -8,6 +8,15 @@
  * TLE for most of problems (DON'T USE IT FOR LARGE N)
  **/
 
+#include <bits/stdc++.h>
+
+#define	vll	vector<ll>
+#define all(v) ((v).begin()), ((v).end())
+
+using namespace std;
+using ll = long long int;
+
+
 int n;
 const int N = 1e5 + 15;
 vector<int> adj[N];
@@ -30,7 +39,6 @@ string treeCanonicalForm(int u, int p = -1) {
 }
 
 int main() {
-  IO;
 #ifndef ONLINE_JUDGE
   freopen("In.txt", "r", stdin);
   freopen("Out.txt", "w", stdout);
@@ -45,5 +53,6 @@ int main() {
     adj[u].push_back(v);
     adj[v].push_back(u);
   }
+
   cout << treeCanonicalForm(1) << endl;
 }
